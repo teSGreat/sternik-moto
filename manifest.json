@@ -1,21 +1,16 @@
 {
   "name": "Sternik Motorowodny",
   "short_name": "Sternik",
+  "id": "/sternik-moto/",
   "description": "Подготовка к экзамену Sternik Motorowodny — 180 вопросов с двумя режимами обучения",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
   "background_color": "#0a4d68",
   "theme_color": "#0a4d68",
   "lang": "ru",
+  "dir": "ltr",
   "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    },
     {
       "src": "icon-192.png",
       "sizes": "192x192",
@@ -35,5 +30,5 @@
       "purpose": "maskable"
     }
   ],
-  "categories": ["education", "productivity"]
+  "categories": ["education"]
 }
