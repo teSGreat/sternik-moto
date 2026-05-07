@@ -1,5 +1,5 @@
 /* Sternik Motorowodny — Service Worker */
-const CACHE_NAME = 'sternik-v4';
+const CACHE_NAME = 'sternik-v6';
 const ASSETS = [
   './',
   './index.html',

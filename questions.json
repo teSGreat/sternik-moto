@@ -195,7 +195,10 @@
         "correct": false
       }
     },
-    "number": 9
+    "number": 9,
+    "images": [
+      "q009.png"
+    ]
   },
   {
     "pl": "Zadaniem układu trymowania silnika zaburtowego jest:",
@@ -503,7 +506,10 @@
         "correct": false
       }
     },
-    "number": 23
+    "number": 23,
+    "images": [
+      "q023.png"
+    ]
   },
   {
     "pl": "1 mila morska (Mm) to:",
@@ -547,7 +553,11 @@
         "correct": false
       }
     },
-    "number": 25
+    "number": 25,
+    "images": [
+      "q025_a.png",
+      "q025_b.png"
+    ]
   },
   {
     "pl": "Prostokątna tablica pomalowana w poziome pasy o kolorach CZERWONY-BIAŁY-CZERWONY oznacza:",
@@ -569,7 +579,10 @@
         "correct": false
       }
     },
-    "number": 26
+    "number": 26,
+    "images": [
+      "q026.png"
+    ]
   },
   {
     "pl": "Przedstawiona na rysunku tablica (biały kwadrat z czerwoną obwódką) oznacza:",
@@ -591,7 +604,10 @@
         "correct": false
       }
     },
-    "number": 27
+    "number": 27,
+    "images": [
+      "q027.png"
+    ]
   },
   {
     "pl": "Przedstawiony na rysunku znak brzegowy (żółty kwadrat z pionowym czarnym pasem) wskazuje:",
@@ -613,7 +629,10 @@
         "correct": false
       }
     },
-    "number": 28
+    "number": 28,
+    "images": [
+      "q028.png"
+    ]
   },
   {
     "pl": "Przedstawiony na rysunku znak (biała tablica z czerwoną obwódką i przekreślonymi czarnymi strzałkami) oznacza:",
@@ -635,7 +654,10 @@
         "correct": false
       }
     },
-    "number": 29
+    "number": 29,
+    "images": [
+      "q029.png"
+    ]
   },
   {
     "pl": "Przedstawiony na rysunku znak (biała tablica z czerwoną obwódką i przekreśloną śrubą) oznacza:",
@@ -657,7 +679,10 @@
         "correct": true
       }
     },
-    "number": 30
+    "number": 30,
+    "images": [
+      "q030.png"
+    ]
   },
   {
     "pl": "Przedstawiona na rysunku biało-czerwona tablica z pionową kreską, oznacza:",
@@ -679,7 +704,10 @@
         "correct": false
       }
     },
-    "number": 31
+    "number": 31,
+    "images": [
+      "q031.png"
+    ]
   },
   {
     "pl": "Przedstawiony na rysunku znak (biała tablica z czerwoną obwódką, strzałką od góry i cyframi) oznacza:",
@@ -701,7 +729,10 @@
         "correct": true
       }
     },
-    "number": 32
+    "number": 32,
+    "images": [
+      "q032.png"
+    ]
   },
   {
     "pl": "Żółty romb umieszczony na przęśle mostu oznacza:",
@@ -723,7 +754,11 @@
         "correct": false
       }
     },
-    "number": 33
+    "number": 33,
+    "images": [
+      "q033_a.png",
+      "q033_b.png"
+    ]
   },
   {
     "pl": "Przedstawiony na rysunku znak oznacza:",
@@ -745,7 +780,10 @@
         "correct": true
       }
     },
-    "number": 34
+    "number": 34,
+    "images": [
+      "q034.png"
+    ]
   },
   {
     "pl": "Co oznacza pojęcie locja?",
@@ -855,7 +893,11 @@
         "correct": false
       }
     },
-    "number": 39
+    "number": 39,
+    "images": [
+      "q039_a.png",
+      "q039_b.png"
+    ]
   },
   {
     "pl": "Chmurą burzową jest:",
@@ -1053,7 +1095,10 @@
         "correct": false
       }
     },
-    "number": 48
+    "number": 48,
+    "images": [
+      "q048.png"
+    ]
   },
   {
     "pl": "Jeżeli dwa statki o napędzie mechanicznym płyną kursami przeciwnymi to:",
@@ -1141,7 +1186,10 @@
         "correct": false
       }
     },
-    "number": 52
+    "number": 52,
+    "images": [
+      "q052.png"
+    ]
   },
   {
     "pl": "Widoczna nocą jednostka pokazuje światła jak na rysunku. Określ rodzaj statku i stronę.",
@@ -1163,7 +1211,10 @@
         "correct": false
       }
     },
-    "number": 53
+    "number": 53,
+    "images": [
+      "q053.png"
+    ]
   },
   {
     "pl": "Widoczna nocą jednostka pokazuje światła jak na rysunku. Określ rodzaj statku i stronę",
@@ -1185,7 +1236,10 @@
         "correct": false
       }
     },
-    "number": 54
+    "number": 54,
+    "images": [
+      "q054.png"
+    ]
   },
   {
     "pl": "Czarna kula wywieszona na dziobie statku oznacza:",
@@ -1207,7 +1261,10 @@
         "correct": true
       }
     },
-    "number": 55
+    "number": 55,
+    "images": [
+      "q055.png"
+    ]
   },
   {
     "pl": "Oznakowanie dzienne promu to:",
@@ -1977,7 +2034,10 @@
         "correct": false
       }
     },
-    "number": 90
+    "number": 90,
+    "images": [
+      "q090.png"
+    ]
   },
   {
     "pl": "Kotwica przedstawiona obok to:",
@@ -1999,7 +2059,10 @@
         "correct": true
       }
     },
-    "number": 91
+    "number": 91,
+    "images": [
+      "q091.png"
+    ]
   },
   {
     "pl": "Celem utrzymania sprawności działania instalacji zęzowej jachtu należy:",
@@ -2043,7 +2106,10 @@
         "correct": false
       }
     },
-    "number": 93
+    "number": 93,
+    "images": [
+      "q093.png"
+    ]
   },
   {
     "pl": "Jacht składający się z dwóch kadłubów to:",

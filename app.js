@@ -76,6 +76,9 @@
     // Keyboard support (desktop)
     document.addEventListener('keydown', onKeyDown);
 
+    // Image viewer close on click
+    $('img-viewer').addEventListener('click', closeImageViewer);
+
     // Service worker for PWA
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker.register('sw.js').catch(() => {/* ignore */});
@@ -134,6 +137,34 @@
     return (state.lang === 'pl' ? opt.pl : opt.ru) || opt.pl || opt.ru;
   }
 
+  // Render question images
+  function renderImages(container, images) {
+    container.innerHTML = '';
+    if (!images || images.length === 0) {
+      container.style.display = 'none';
+      return;
+    }
+    container.style.display = 'flex';
+    container.classList.toggle('qimages--multi', images.length > 1);
+    images.forEach(filename => {
+      const img = document.createElement('img');
+      img.src = `images/${filename}`;
+      img.alt = '';
+      img.loading = 'lazy';
+      img.addEventListener('click', () => openImageViewer(img.src));
+      container.appendChild(img);
+    });
+  }
+
+  function openImageViewer(src) {
+    const viewer = $('img-viewer');
+    $('img-viewer-img').src = src;
+    viewer.classList.add('active');
+  }
+  function closeImageViewer() {
+    $('img-viewer').classList.remove('active');
+  }
+
   // -------- Study mode --------
   function renderStudy() {
     const total = state.questions.length;
@@ -145,6 +176,7 @@
 
     $('study-qnum').textContent = `№ ${q.number} / ${total}`;
     $('study-qtext').textContent = getQuestionText(q);
+    renderImages($('study-images'), q.images);
 
     const opts = $('study-opts');
     opts.innerHTML = '';
@@ -189,6 +221,7 @@
 
     $('quiz-qnum').textContent = `№ ${q.number}`;
     $('quiz-qtext').textContent = getQuestionText(q);
+    renderImages($('quiz-images'), q.images);
 
     const opts = $('quiz-opts');
     opts.innerHTML = '';
