@@ -1,0 +1,3874 @@
+[
+  {
+    "pl": "Łódź motorowa typu RIB",
+    "ru": "Скоростная лодка типа RIB – это:",
+    "options": {
+      "A": {
+        "pl": "łódź motorowa do połowu ryb",
+        "ru": "скоростная лодка для ловли рыбы",
+        "correct": false
+      },
+      "B": {
+        "pl": "łódź motorowa o konstrukcji hybrydowej stanowiące połączenie sztywnej i elastycznej",
+        "ru": "моторная лодка гибридной конструкции, представляющая собой сочетание жесткой и гибкой конструкции (баллонов плавучести)",
+        "correct": true
+      },
+      "C": {
+        "pl": "łódź motorowa o napędzie strugowodnym",
+        "ru": "скоростная лодка со строгальным приводом",
+        "correct": false
+      }
+    },
+    "number": 1
+  },
+  {
+    "pl": "Jacht motorowy, który posiada plaskie dno, osiąga prędkości to",
+    "ru": "Моторная яхта, которая имеет плоское дно, достигающая скорости – это:",
+    "options": {
+      "A": {
+        "pl": "Jacht wypornościowy",
+        "ru": "водовымещающая яхта",
+        "correct": false
+      },
+      "B": {
+        "pl": "Jacht ślizgowy",
+        "ru": "скользящая яхта",
+        "correct": true
+      },
+      "C": {
+        "pl": "Jacht balastowy",
+        "ru": "балластная яхта",
+        "correct": false
+      }
+    },
+    "number": 2
+  },
+  {
+    "pl": "Stępka jest to:",
+    "ru": "Киль – это:",
+    "options": {
+      "A": {
+        "pl": "Część  osprzętu  pokładowego",
+        "ru": "часть бортового оборудования",
+        "correct": false
+      },
+      "B": {
+        "pl": "Główny element konstrukcji wzdłużnej jachtu",
+        "ru": "основной элемент продольной конструкции яхты",
+        "correct": true
+      },
+      "C": {
+        "pl": "Główny element konstrukcji dziobu jachtu",
+        "ru": "основной элемент конструкции носовой части яхты",
+        "correct": false
+      }
+    },
+    "number": 3
+  },
+  {
+    "pl": "Kokpit jest to:",
+    "ru": "Кокпит – это:",
+    "options": {
+      "A": {
+        "pl": "Miejsce do przechowywania kotwicy",
+        "ru": "место для закрепления якоря",
+        "correct": false
+      },
+      "B": {
+        "pl": "Zagłębienie w pokładzie, w którym przebywa załoga podczas żeglugi",
+        "ru": "углубление в палубе, в которой находится экипаж во время плавания",
+        "correct": true
+      },
+      "C": {
+        "pl": "Najniżej położona część jachtu",
+        "ru": "самая нижняя часть яхты",
+        "correct": false
+      }
+    },
+    "number": 4
+  },
+  {
+    "pl": "Co to jest knaga?:",
+    "ru": "Что такое кнехт:",
+    "options": {
+      "A": {
+        "pl": "Miejsce  mocowania  silnika",
+        "ru": "место крепления двигателя",
+        "correct": false
+      },
+      "B": {
+        "pl": "Osprzęt pokładowy służący do unieruchamiania różnych lin",
+        "ru": "деталь швартовного устройства, для закрепления концов веревок и обездвиживания моторной яхты устройство спасательной веревки",
+        "correct": true
+      },
+      "C": {
+        "pl": "Urządzenie do liny ratowniczej",
+        "ru": "",
+        "correct": false
+      }
+    },
+    "number": 5
+  },
+  {
+    "pl": "Handreling to:",
+    "ru": "Релинг – это:",
+    "options": {
+      "A": {
+        "pl": "Poręncz przytwierdzona do pokładówki, nadbudówki, jako uchwat dla dłoni",
+        "ru": "поручень, прикрепленный к палубе, надстройке, как поручень для рук",
+        "correct": true
+      },
+      "B": {
+        "pl": "Wzmocnienie burty jachtu",
+        "ru": "укрепление борта яхты",
+        "correct": false
+      },
+      "C": {
+        "pl": "Uchwyt do podnoszenia silnika przyczepnego",
+        "ru": "ручка для подъема тягового двигателя",
+        "correct": false
+      }
+    },
+    "number": 6
+  },
+  {
+    "pl": "Zęza to",
+    "ru": "Трюм - это:",
+    "options": {
+      "A": {
+        "pl": "Pomieszczenie dziobowe",
+        "ru": "помещение в носу яхты",
+        "correct": false
+      },
+      "B": {
+        "pl": "Podłoga na jachcie",
+        "ru": "пол на яхте",
+        "correct": false
+      },
+      "C": {
+        "pl": "Przestrzeń, która znajduje się pod podłogą wewnątrz jachtu",
+        "ru": "пространство, в корпусе судна между днищем и(или вторым дном) и вышележащей палубой",
+        "correct": true
+      }
+    },
+    "number": 7
+  },
+  {
+    "pl": "Wręga to",
+    "ru": "Перемычка БИМС - это:",
+    "options": {
+      "A": {
+        "pl": "Element konstrukcji wzdłużnej jachtu",
+        "ru": "элемент продольной конструкции яхты",
+        "correct": false
+      },
+      "B": {
+        "pl": "Element konstrukcji poprzecznej jachtu",
+        "ru": "элемент поперечной конструкции яхты",
+        "correct": true
+      },
+      "C": {
+        "pl": "Element konstrukcji mocowania silnika.",
+        "ru": "элемент конструкции крепления двигателя",
+        "correct": false
+      }
+    },
+    "number": 8
+  },
+  {
+    "pl": "Jak nazywa się lina cumownicza łącząca rufę jachtu z polerem na nabrzeżu umieszczonym za jachtem?",
+    "ru": "Как называется швартов, соединяющий корму яхты с кнехтом (№1 на рис.) на причале, расположенной за яхтой?",
+    "options": {
+      "A": {
+        "pl": "Cuma rufowa",
+        "ru": "кормовой канат",
+        "correct": true
+      },
+      "B": {
+        "pl": "Spring rufowy",
+        "ru": "кормовой шпринг",
+        "correct": false
+      },
+      "C": {
+        "pl": "Cuma środkowa",
+        "ru": "центральный канат",
+        "correct": false
+      }
+    },
+    "number": 9
+  },
+  {
+    "pl": "Zadaniem układu trymowania silnika zaburtowego jest:",
+    "ru": "Задачей системы удержания подвесного мотора является:",
+    "options": {
+      "A": {
+        "pl": "Prawidłowe ustawienie wzdłużne jachtu względem wody podczas płynięcia",
+        "ru": "правильное продольное выравнивание яхты относительно воды во время движения",
+        "correct": true
+      },
+      "B": {
+        "pl": "Prawidłowe ustawienie wzdłużne jachtu względem wody podczas postoju",
+        "ru": "правильное продольное положение яхты относительно воды во время стоянки",
+        "correct": false
+      },
+      "C": {
+        "pl": "Prawidłowe ustawienie poprzeczne jachtu względem wody podczas płynięcia",
+        "ru": "правильное поперечное положение яхты относительно воды во время движения",
+        "correct": false
+      }
+    },
+    "number": 10
+  },
+  {
+    "pl": "Prawidłową pracę układu chłodzenia silnika zaburtowego stwierdzamy na podstawie:",
+    "ru": "Правильную работу системы охлаждения подвесного мотора определяем по:",
+    "options": {
+      "A": {
+        "pl": "Wskaźnika ciśnienia oleju",
+        "ru": "датчику давления масла",
+        "correct": false
+      },
+      "B": {
+        "pl": "Wylotu wody chłodzącej",
+        "ru": "выходу охлаждающей воды",
+        "correct": true
+      },
+      "C": {
+        "pl": "Wskaźnika ciśnienia wody",
+        "ru": "датчику давления воды",
+        "correct": false
+      }
+    },
+    "number": 11
+  },
+  {
+    "pl": "Skok  śruby  napędowej  to:",
+    "ru": "Ход гребного винта - это:",
+    "options": {
+      "A": {
+        "pl": "Teoretyczna długość drogi, jaką pokonuje śruba napędowa jednostki pływającej podczas jednego obrotu",
+        "ru": "теоретическая длина пути, которую пропеллер плывущего средства проходит за один оборот",
+        "correct": true
+      },
+      "B": {
+        "pl": "Odległość pomiędzy osią a zewnętrzną krawędzią śruby",
+        "ru": "расстояние между осью и внешним краем винта",
+        "correct": false
+      },
+      "C": {
+        "pl": "Luz na wale śrubowym",
+        "ru": "зазор на винтовом валу",
+        "correct": false
+      }
+    },
+    "number": 12
+  },
+  {
+    "pl": "Jednostka mocy o wartości 1 kW to:",
+    "ru": "Единица мощности 1 кВт - это:",
+    "options": {
+      "A": {
+        "pl": "1,36 konia mechanicznego",
+        "ru": "1,36 лошадиная сила",
+        "correct": true
+      },
+      "B": {
+        "pl": "100 Watt",
+        "ru": "100 Ватт",
+        "correct": false
+      },
+      "C": {
+        "pl": "2,5 konia mechanicznego",
+        "ru": "2,5 лошадиных сил",
+        "correct": false
+      }
+    },
+    "number": 13
+  },
+  {
+    "pl": "Przed uruchomieniem zapłonu, na łodzi wyposażonej w silnik stacjonarny,  należy w  pierwszej kolejności:",
+    "ru": "Перед запуском зажигания на лодке, оснащенной стационарным двигателем, необходимо в первую очередь:",
+    "options": {
+      "A": {
+        "pl": "Przewietrzyć komorę silnika",
+        "ru": "проветрить моторный отсек",
+        "correct": true
+      },
+      "B": {
+        "pl": "Sprawdzić filtr paliwa",
+        "ru": "проверить топливный фильтр",
+        "correct": false
+      },
+      "C": {
+        "pl": "Sprawdzić układ kierowniczy",
+        "ru": "проверить рулевое управление",
+        "correct": false
+      }
+    },
+    "number": 14
+  },
+  {
+    "pl": "Zrywka to:",
+    "ru": "Страховочная чека - это:",
+    "options": {
+      "A": {
+        "pl": "Urządzenie służące do rozruchu silnika",
+        "ru": "устройство, используемое для запуска двигателя",
+        "correct": false
+      },
+      "B": {
+        "pl": "Awaryjny wyłącznik silnika",
+        "ru": "аварийный выключатель двигателя",
+        "correct": true
+      },
+      "C": {
+        "pl": "Zabezpieczenie śruby napędowej",
+        "ru": "защита пропеллера",
+        "correct": false
+      }
+    },
+    "number": 15
+  },
+  {
+    "pl": "Do zasilania silnika dwusuwowego używamy:",
+    "ru": "Для питания двухтактного двигателя мы используем:",
+    "options": {
+      "A": {
+        "pl": "Oleju napędowego",
+        "ru": "дизельное топливо",
+        "correct": false
+      },
+      "B": {
+        "pl": "Mieszanki benzyny z olejem",
+        "ru": "смесь бензина и масла",
+        "correct": true
+      },
+      "C": {
+        "pl": "Benzyny",
+        "ru": "бензин",
+        "correct": false
+      }
+    },
+    "number": 16
+  },
+  {
+    "pl": "W chwilę po uruchomieniu silnika należy sprawdzić:",
+    "ru": "Сразу после запуска двигателя необходимо проверить:",
+    "options": {
+      "A": {
+        "pl": "Czy silnik jest dobrze zamocowany na pawęży",
+        "ru": "хорошо ли закреплен двигатель на транце",
+        "correct": false
+      },
+      "B": {
+        "pl": "Czy silnik jest chłodzony",
+        "ru": "охлаждается ли двигатель",
+        "correct": true
+      },
+      "C": {
+        "pl": "Czy wydostają się spaliny spod wody",
+        "ru": "выходят ли выхлопные газы из-под воды",
+        "correct": false
+      }
+    },
+    "number": 17
+  },
+  {
+    "pl": "Gaźnik w silniku zaburtowym jest to:",
+    "ru": "Карбюратор в подвесном двигателе - это:",
+    "options": {
+      "A": {
+        "pl": "Urządzenie do wytwarzania mieszanki paliwowo-powietrznej",
+        "ru": "устройство для производства топливно-воздушной смеси",
+        "correct": true
+      },
+      "B": {
+        "pl": "Urządzenie do wytwarzania mieszanki paliwowo-olejowej",
+        "ru": "устройство для производства топливно-масляной смеси",
+        "correct": false
+      },
+      "C": {
+        "pl": "Rodzaj przekładni",
+        "ru": "тип редуктора",
+        "correct": false
+      }
+    },
+    "number": 18
+  },
+  {
+    "pl": "Napęd strugowodny to:",
+    "ru": "Водомёт:",
+    "options": {
+      "A": {
+        "pl": "Rodzaj pędnika wykorzystujący siłę odrzutu wody",
+        "ru": "тип двигателя, использующий силу отдачи воды",
+        "correct": true
+      },
+      "B": {
+        "pl": "Rodzaj pędnika stosowany na łodziach motorowych uprawiających żeglugę w strefie ciszy",
+        "ru": "тип двигателя, используемый на моторных лодках, которые занимаются плаванием в Зоне Тишины",
+        "correct": false
+      },
+      "C": {
+        "pl": "Urządzenie sterowe",
+        "ru": "рулевое устройство",
+        "correct": false
+      }
+    },
+    "number": 19
+  },
+  {
+    "pl": "Przy uruchomionym silniku zaburtowym, zrywkę należy:",
+    "ru": "При работающем подвесном двигателе, страховочная чека двигателя должна быть:",
+    "options": {
+      "A": {
+        "pl": "Przymocować do części ciała lub garderoby",
+        "ru": "прикреплена к части тела или гардероба",
+        "correct": true
+      },
+      "B": {
+        "pl": "Przymocować do części kadłuba jachtu",
+        "ru": "прикреплена к части корпуса яхты",
+        "correct": false
+      },
+      "C": {
+        "pl": "Przymocować do koła ratunkowego",
+        "ru": "прикреплена к спасательному кругу",
+        "correct": false
+      }
+    },
+    "number": 20
+  },
+  {
+    "pl": "Wschodni znak kardynalny to:",
+    "ru": "Восточный Кардинальный знак - это:",
+    "options": {
+      "A": {
+        "pl": "Pława, kolumienka lub tyka ze znakiem szczytowym dwa czarne stożki, jeden nad drugim, wierzchołkami skierowanymi  w  górę",
+        "ru": "плавающий знак, столбик или пика с двумя черными конусами, один над другим, вершинами, направленными вверх",
+        "correct": false
+      },
+      "B": {
+        "pl": "Pława, kolumienka lub tyka ze znakiem szczytowym dwa czarne stożki, jeden nad drugim, podstawami do siebie",
+        "ru": "плавающий знак, столбик или пика с двумя черными конусами, один над другим, основаниями друг к другу",
+        "correct": true
+      },
+      "C": {
+        "pl": "Pława, kolumienka lub tyka ze znakiem szczytowym dwa czarne stożki, jeden nad drugim, wierzchołkami skierowanymi w dół",
+        "ru": "Плавающий знак, столбик или пика с двумя черными конусами, один над другим, вершинами, направленными вниз",
+        "correct": false
+      }
+    },
+    "number": 21
+  },
+  {
+    "pl": "Północny znak kardynalny należy omijać:",
+    "ru": "Северный Кардинальный знак следует избегать:",
+    "options": {
+      "A": {
+        "pl": "Od północy, zachodu lub wschodu",
+        "ru": "с севера, запада или востока",
+        "correct": false
+      },
+      "B": {
+        "pl": "Jedynie  od strony  południa",
+        "ru": "только с юга",
+        "correct": false
+      },
+      "C": {
+        "pl": "Od północy pozostawiając go na południu",
+        "ru": "с севера, оставляя его на юге",
+        "correct": true
+      }
+    },
+    "number": 22
+  },
+  {
+    "pl": "Zielona tyka na wodach śródlądowych oznacza:",
+    "ru": "Зеленая пика (вешка) во внутренних водах означает:",
+    "options": {
+      "A": {
+        "pl": "Lewą granicę szlaku żeglownego",
+        "ru": "левая граница судоходного пути",
+        "correct": true
+      },
+      "B": {
+        "pl": "Prawą granicę szlaku żeglownego",
+        "ru": "правая граница судоходного шале",
+        "correct": false
+      },
+      "C": {
+        "pl": "Miejsce na akwenie przeznaczone do połowu",
+        "ru": "место на водоеме, предназначенное для ловли рыбы",
+        "correct": false
+      }
+    },
+    "number": 23
+  },
+  {
+    "pl": "1 mila morska (Mm) to:",
+    "ru": "1 морская миля (Mm) составляет:",
+    "options": {
+      "A": {
+        "pl": "Odcinek równika odpowiadający jednej minucie kątowej = 1,852 km",
+        "ru": "участок экватора, соответствующий одной угловой минуте = 1,852 км",
+        "correct": true
+      },
+      "B": {
+        "pl": "Jednostka prędkości = 10 km/h",
+        "ru": "единица скорости = 10 км/ч",
+        "correct": false
+      },
+      "C": {
+        "pl": "Jednostka długości = 1652 m",
+        "ru": "единица длины = 1652 м",
+        "correct": false
+      }
+    },
+    "number": 24
+  },
+  {
+    "pl": "Znak brzegowy w kształcie czerwonego trójkąta skierowanego wierzchołkiem w dół oznacza:",
+    "ru": "Пограничный знак в форме красного треугольника, направленного вершиной вниз, означает:",
+    "options": {
+      "A": {
+        "pl": "Miejsce niebezpieczne na lewym brzegu",
+        "ru": "опасное место на левом берегу",
+        "correct": false
+      },
+      "B": {
+        "pl": "Miejsce niebezpieczne na prawym brzegu",
+        "ru": "опасное место на правом берегу",
+        "correct": true
+      },
+      "C": {
+        "pl": "Miejsce niebezpieczne na rozgałęzieniu szlaku",
+        "ru": "опасное место на разветвлении ходового пути",
+        "correct": false
+      }
+    },
+    "number": 25
+  },
+  {
+    "pl": "Prostokątna tablica pomalowana w poziome pasy o kolorach CZERWONY-BIAŁY-CZERWONY oznacza:",
+    "ru": "Прямоугольная табличка, окрашенная в горизонтальные полосы красно-бело-красного цвета:",
+    "options": {
+      "A": {
+        "pl": "Rozgałęzienie szlaku wodnego",
+        "ru": "разветвление водного пути",
+        "correct": false
+      },
+      "B": {
+        "pl": "Zakaz wjazdu lub przejazdu",
+        "ru": "запрет на въезд или проезд",
+        "correct": true
+      },
+      "C": {
+        "pl": "Nakaz rozdzielenia pociągu holowniczego",
+        "ru": "предупреждение о разделении фарватера",
+        "correct": false
+      }
+    },
+    "number": 26
+  },
+  {
+    "pl": "Przedstawiona na rysunku tablica (biały kwadrat z czerwoną obwódką) oznacza:",
+    "ru": "Изображенный на рисунке знак (белый квадрат с красной каймой) обозначает:",
+    "options": {
+      "A": {
+        "pl": "Przebieg szlaku wzdłuż prawego brzegu",
+        "ru": "маршрут вдоль правого берега",
+        "correct": true
+      },
+      "B": {
+        "pl": "Miejsce niebezpieczne na prawym brzegu",
+        "ru": "опасное место на правом берегу",
+        "correct": false
+      },
+      "C": {
+        "pl": "Przebieg szlaku wzdłuż lewego brzegu",
+        "ru": "маршрут вдоль левого берега",
+        "correct": false
+      }
+    },
+    "number": 27
+  },
+  {
+    "pl": "Przedstawiony na rysunku znak brzegowy (żółty kwadrat z pionowym czarnym pasem) wskazuje:",
+    "ru": "Пограничный знак (желтый квадрат с вертикальной черной полосой), изображенный на рисунке, указывает:",
+    "options": {
+      "A": {
+        "pl": "Przebieg   szlaku   żeglownego   wzdłuż   lewego   brzegu",
+        "ru": "ход судоходного пути по левому берегу",
+        "correct": false
+      },
+      "B": {
+        "pl": "Przejście szlaku żeglownego od prawego do lewego brzegu",
+        "ru": "переход судоходного пути от правого к левому берегу",
+        "correct": true
+      },
+      "C": {
+        "pl": "Przejście szlaku żeglownego od lewego do prawego brzegu",
+        "ru": "переход судоходного пути от левого к правому берегу",
+        "correct": false
+      }
+    },
+    "number": 28
+  },
+  {
+    "pl": "Przedstawiony na rysunku znak (biała tablica z czerwoną obwódką i przekreślonymi czarnymi strzałkami) oznacza:",
+    "ru": "Изображенный на рисунке знак (белая табличка с красной каймой и зачеркнутыми черными стрелками) обозначает:",
+    "options": {
+      "A": {
+        "pl": "Zakaz ruchu statków sportowych i turystycznych",
+        "ru": "запрет на движение спортивных и туристических судов",
+        "correct": false
+      },
+      "B": {
+        "pl": "Zakaz wszelkiego wyprzedzania",
+        "ru": "запрет на все обгоны",
+        "correct": true
+      },
+      "C": {
+        "pl": "Zakaz wyprzedzania pociągów holowniczych",
+        "ru": "запрет обгона буксирных судов",
+        "correct": false
+      }
+    },
+    "number": 29
+  },
+  {
+    "pl": "Przedstawiony na rysunku znak (biała tablica z czerwoną obwódką i przekreśloną śrubą) oznacza:",
+    "ru": "Знак, изображенный на рисунке (белая доска с красной каймой и зачеркнутым винтом), обозначает:",
+    "options": {
+      "A": {
+        "pl": "Zakaz ruchu statków sportowych i turystycznych",
+        "ru": "запрет на движение спортивных и туристических судов",
+        "correct": false
+      },
+      "B": {
+        "pl": "Zakaz  ruchu statków żaglowych",
+        "ru": "запрет на движение парусных судов",
+        "correct": false
+      },
+      "C": {
+        "pl": "Zakaz ruchu statków o napędzie mechanicznym",
+        "ru": "запрет на движение судов с механическим приводом",
+        "correct": true
+      }
+    },
+    "number": 30
+  },
+  {
+    "pl": "Przedstawiona na rysunku biało-czerwona tablica z pionową kreską, oznacza:",
+    "ru": "Изображенная на рисунке бело-красная табличка с вертикальной черной чертой, обозначает:",
+    "options": {
+      "A": {
+        "pl": "Nakaz zachowania szczególnej ostrożności",
+        "ru": "предписание соблюдать особую осторожность и бдительность",
+        "correct": true
+      },
+      "B": {
+        "pl": "Nakaz nadania sygnału dźwiękowego",
+        "ru": "передача звукового сигнала",
+        "correct": false
+      },
+      "C": {
+        "pl": "Nakaz zatrzymania statku w warunkach określonych przepisami",
+        "ru": "задержание судна в условиях, установленных Правилами",
+        "correct": false
+      }
+    },
+    "number": 31
+  },
+  {
+    "pl": "Przedstawiony na rysunku znak (biała tablica z czerwoną obwódką, strzałką od góry i cyframi) oznacza:",
+    "ru": "Изображенный на рисунке знак (белая табличка с красной каймой, стрелкой сверху и цифрами) обозначает:",
+    "options": {
+      "A": {
+        "pl": "Ograniczenie głębokości do 7,5m",
+        "ru": "ограничение глубины до 7,5 м",
+        "correct": false
+      },
+      "B": {
+        "pl": "Ograniczenie wysokości  wolnej  burty  do  7,5m",
+        "ru": "ограничение высоты надводного борта до 7,5м",
+        "correct": false
+      },
+      "C": {
+        "pl": "Ograniczenie wysokości prześwitu nad lustrem wody do 7,5m",
+        "ru": "ограничение высоты зазора над поверхностью воды до 7,5 м",
+        "correct": true
+      }
+    },
+    "number": 32
+  },
+  {
+    "pl": "Żółty romb umieszczony na przęśle mostu oznacza:",
+    "ru": "Желтый ромб, помещенный на мостовой мост, означает:",
+    "options": {
+      "A": {
+        "pl": "Przejście w obu kierunkach",
+        "ru": "переход в обоих направлениях",
+        "correct": true
+      },
+      "B": {
+        "pl": "Przejście w jednym kierunku",
+        "ru": "переход в одном направлении",
+        "correct": false
+      },
+      "C": {
+        "pl": "Przejście chwilowo zamknięte",
+        "ru": "переход временно закрыт или",
+        "correct": false
+      }
+    },
+    "number": 33
+  },
+  {
+    "pl": "Przedstawiony na rysunku znak oznacza:",
+    "ru": "Изображенный на рисунке знак означает:",
+    "options": {
+      "A": {
+        "pl": "Przejście w obu kierunkach określone tablicami",
+        "ru": "переход в обоих направлениях, определенных таблицами",
+        "correct": false
+      },
+      "B": {
+        "pl": "Przejście w jednym kierunku określone tablicami",
+        "ru": "переход в одном направлении, обозначенный таблицами",
+        "correct": false
+      },
+      "C": {
+        "pl": "Zakaz przejścia poza skrajną określoną tablicami (pod mostem, przez jaz)",
+        "ru": "запрет на пересечение границ, отмеченных белым цветом (под мостом, через плотину)",
+        "correct": true
+      }
+    },
+    "number": 34
+  },
+  {
+    "pl": "Co oznacza pojęcie locja?",
+    "ru": "Что означает понятие «лоция»?",
+    "options": {
+      "A": {
+        "pl": "Dział wiedzy zajmujący się określaniem pozycji statku",
+        "ru": "отдел знаний, занимающийся определением положения судна",
+        "correct": false
+      },
+      "B": {
+        "pl": "Sygnalizację  śródlądową",
+        "ru": "внутренняя сигнализация",
+        "correct": false
+      },
+      "C": {
+        "pl": "Dział wiedzy żeglarskiej zajmujący się opisem i oznakowaniem szlaków żeglownych",
+        "ru": "отдел морских знаний, занимающийся описанием и маркировкой судоходных маршрутов",
+        "correct": true
+      }
+    },
+    "number": 35
+  },
+  {
+    "pl": "Szlak żeglowny jest to:",
+    "ru": "Судоходный маршрут - это:",
+    "options": {
+      "A": {
+        "pl": "Pas wody o dostatecznej dla żeglugi głębokości i szerokości",
+        "ru": "водный путь, достаточный для судоходства по глубине и ширине",
+        "correct": true
+      },
+      "B": {
+        "pl": "Każdy akwen, na którym można uprawiać sporty motorowe",
+        "ru": "любой водоем, где можно заняться автоспортом",
+        "correct": false
+      },
+      "C": {
+        "pl": "Każdy akwen niezależnie od jego wielkości i głębokości",
+        "ru": "любой водоем независимо от его размера и глубины",
+        "correct": false
+      }
+    },
+    "number": 36
+  },
+  {
+    "pl": "Śluza jest to:",
+    "ru": "Шлюз - это:",
+    "options": {
+      "A": {
+        "pl": "Przegroda poprzeczna spiętrzająca wodę",
+        "ru": "поперечная перегородка для перекрытия воды",
+        "correct": false
+      },
+      "B": {
+        "pl": "Budowla łącząca dwa akweny o różnych poziomach wody",
+        "ru": "сооружение, соединяющее два водоема с разным уровнем воды",
+        "correct": true
+      },
+      "C": {
+        "pl": "Kanał spławny",
+        "ru": "судоходный канал",
+        "correct": false
+      }
+    },
+    "number": 37
+  },
+  {
+    "pl": "1 kabel to:",
+    "ru": "1 кабель - это:",
+    "options": {
+      "A": {
+        "pl": "Jednostka długości = 0,1 Mm",
+        "ru": "единица длины = 0,1 мм",
+        "correct": true
+      },
+      "B": {
+        "pl": "Jednostka prędkości = 0,1 węzła",
+        "ru": "единица скорости = 0,1 узла",
+        "correct": false
+      },
+      "C": {
+        "pl": "Jednostka ciśnienia wynosząca 0,1 bara",
+        "ru": "единица давления = 0,1 бар",
+        "correct": false
+      }
+    },
+    "number": 38
+  },
+  {
+    "pl": "Boja ze znakiem szczytowym w kształcie stożka oznacza (na wodach morskich):",
+    "ru": "Буй с конусообразным пиковым знаком означает (в морских водах):",
+    "options": {
+      "A": {
+        "pl": "Prawą stronę szlaku żeglownego",
+        "ru": "правая сторона судоходного пути",
+        "correct": true
+      },
+      "B": {
+        "pl": "Lewą stronę szlaku żeglownego",
+        "ru": "левая сторона судоходного маршрута",
+        "correct": false
+      },
+      "C": {
+        "pl": "Nakaz przejścia na prawą stronę szlaku żeglownego",
+        "ru": "указатель о переходе на правую сторону судоходного пути  на берегу   на воде",
+        "correct": false
+      }
+    },
+    "number": 39
+  },
+  {
+    "pl": "Chmurą burzową jest:",
+    "ru": "Грозовое облако:",
+    "options": {
+      "A": {
+        "pl": "Nimbostratus",
+        "ru": "Nimbostratus",
+        "correct": false
+      },
+      "B": {
+        "pl": "Altostratus",
+        "ru": "Altostratus",
+        "correct": false
+      },
+      "C": {
+        "pl": "Cumulonimbus",
+        "ru": "Cumulonimbus",
+        "correct": true
+      }
+    },
+    "number": 40
+  },
+  {
+    "pl": "Do pomiaru ciśnienia atmosferycznego służy:",
+    "ru": "Для измерения атмосферного давления используется:",
+    "options": {
+      "A": {
+        "pl": "Barometer",
+        "ru": "Барометр",
+        "correct": true
+      },
+      "B": {
+        "pl": "Higrometr",
+        "ru": "Гигрометр",
+        "correct": false
+      },
+      "C": {
+        "pl": "Anemometer",
+        "ru": "Анемометр",
+        "correct": false
+      }
+    },
+    "number": 41
+  },
+  {
+    "pl": "Co to są izobary:",
+    "ru": "Что такое «изобары»:",
+    "options": {
+      "A": {
+        "pl": "Są to linie na mapach synoptycznych, łączące miejsca o tym samym ciśnieniu",
+        "ru": "это линии на синоптических картах, соединяющие места с одинаковым давлением",
+        "correct": true
+      },
+      "B": {
+        "pl": "Są to linie na mapach synoptycznych, łączące miejsca o tej samej temperaturze",
+        "ru": "это линии на синоптических картах, соединяющие места с одинаковой температурой",
+        "correct": false
+      },
+      "C": {
+        "pl": "Są to linie na mapach synoptycznych, łączące miejsca o tej samej wilgotności",
+        "ru": "это линии на синоптических картах, соединяющие места с одинаковой влажностью",
+        "correct": false
+      }
+    },
+    "number": 42
+  },
+  {
+    "pl": "Północny wiatr:",
+    "ru": "Северный ветер:",
+    "options": {
+      "A": {
+        "pl": "Wieje z północy",
+        "ru": "дует с севера",
+        "correct": true
+      },
+      "B": {
+        "pl": "Wieje na północ",
+        "ru": "дует на север",
+        "correct": false
+      },
+      "C": {
+        "pl": "Wieje o północy",
+        "ru": "дует в север",
+        "correct": false
+      }
+    },
+    "number": 43
+  },
+  {
+    "pl": "Podczas bryzy dziennej wiatr wieje:",
+    "ru": "Во время дневного бриза дует ветер:",
+    "options": {
+      "A": {
+        "pl": "Od lądu w kierunku morza",
+        "ru": "от суши к морю",
+        "correct": false
+      },
+      "B": {
+        "pl": "Z morza w kierunku lądu",
+        "ru": "от моря к суше",
+        "correct": true
+      },
+      "C": {
+        "pl": "Wzdłuż brzegu z południa na północ",
+        "ru": "вдоль берега с юга на север",
+        "correct": false
+      }
+    },
+    "number": 44
+  },
+  {
+    "pl": "Jachty śródlądowe (przeznaczone do uprawiania turystyki, sportu, sportowego połowu ryb) o napędzie mechanicznym, o mocy silników większej niż 15 kW powinny być rejestrowane w:",
+    "ru": "Внутренние яхты (предназначенные для туризма, спорта, спортивной рыбалки) с механическим приводом и мощностью двигателей более 15 кВт должны регистрироваться:",
+    "options": {
+      "A": {
+        "pl": "Nie muszą być zarejestrowane",
+        "ru": "они не должны быть зарегистрированы",
+        "correct": false
+      },
+      "B": {
+        "pl": "W systemie REJA 24",
+        "ru": "в системе REJA 24",
+        "correct": true
+      },
+      "C": {
+        "pl": "W Urzędzie Gminy",
+        "ru": "в Муниципальном Управлении (Ужонде Гмины)",
+        "correct": false
+      }
+    },
+    "number": 45
+  },
+  {
+    "pl": "Jachty śródlądowe, podlegające obowiązkowi przeglądów technicznych to:",
+    "ru": "К яхтам во внутренних водах, подлежащим техническому осмотру, относятся:",
+    "options": {
+      "A": {
+        "pl": "Jachty śródlądowe wyposażone w silnik o mocy równej lub przekraczającej 75 kW",
+        "ru": "яхты во внутренних водах, оснащенные двигателем мощностью, равной или превышающей 75 кВт",
+        "correct": true
+      },
+      "B": {
+        "pl": "Jachty śródlądowe wyposażone w silnik strugowodny o mocy 50 kW",
+        "ru": "яхты во внутренних водах, оснащенные водомётным двигателем мощностью 50 кВт",
+        "correct": false
+      },
+      "C": {
+        "pl": "Jachty śródlądowe wyposażone w silnik o mocy równej lub przekraczającej 65 kW",
+        "ru": "яхты во внутренних водах, оснащенные двигателем мощностью, равной или превышающей 65 кВт",
+        "correct": false
+      }
+    },
+    "number": 46
+  },
+  {
+    "pl": "Statek o napędzie mechanicznym, który chce wyprzedzić inny statek o napędzie mechanicznym powinien:",
+    "ru": "Судно с механическим приводом, которое хочет обогнать другое судно с механическим приводом, должно:",
+    "options": {
+      "A": {
+        "pl": "Ustąpić mu pierwszeństwa drogi",
+        "ru": "уступить дорогу судну, которое впереди",
+        "correct": true
+      },
+      "B": {
+        "pl": "Unikać zmiany kursu w prawo",
+        "ru": "избегать изменения курса вправо",
+        "correct": false
+      },
+      "C": {
+        "pl": "Unikać zmiany kursu w lewo",
+        "ru": "избегать изменения курса влево",
+        "correct": false
+      }
+    },
+    "number": 47
+  },
+  {
+    "pl": "Statek pokazuje znaki dzienne, takie jak na rysunku, co to oznacza?",
+    "ru": "Судно показывает дневные знаки, как на рисунке, что это значит?",
+    "options": {
+      "A": {
+        "pl": "Statek stojący na mieliźnie",
+        "ru": "судно, стоящее на мели",
+        "correct": false
+      },
+      "B": {
+        "pl": "Statek o ograniczonej zdolności manewrowej",
+        "ru": "корабль с ограниченной маневренностью",
+        "correct": true
+      },
+      "C": {
+        "pl": "Statek stojący na kotwicy",
+        "ru": "корабль, стоящий на якоре",
+        "correct": false
+      }
+    },
+    "number": 48
+  },
+  {
+    "pl": "Jeżeli dwa statki o napędzie mechanicznym płyną kursami przeciwnymi to:",
+    "ru": "Если два судна с механическим приводом движутся противоположными курсами, то:",
+    "options": {
+      "A": {
+        "pl": "Oba powinny zmienić kurs w lewo",
+        "ru": "оба должны изменить курс влево",
+        "correct": false
+      },
+      "B": {
+        "pl": "Oba powinny zmienić kurs w prawo",
+        "ru": "оба должны изменить курс вправо",
+        "correct": true
+      },
+      "C": {
+        "pl": "Oba powinny nadać sygnał dźwiękowy",
+        "ru": "оба должны подавать звуковой сигнал",
+        "correct": false
+      }
+    },
+    "number": 49
+  },
+  {
+    "pl": "Seria bardzo krótkich dźwięków oznacza:",
+    "ru": "Серия очень коротких сигналов (звуков) означает:",
+    "options": {
+      "A": {
+        "pl": "Zmieniam mój kurs w prawo",
+        "ru": "я меняю свой курс вправо",
+        "correct": false
+      },
+      "B": {
+        "pl": "Niebezpieczeństwo zderzenia",
+        "ru": "опасность столкновения",
+        "correct": true
+      },
+      "C": {
+        "pl": "Uwaga",
+        "ru": "внимание",
+        "correct": false
+      }
+    },
+    "number": 50
+  },
+  {
+    "pl": "Jeden długi dźwięk nadawany przez statek oznacza:",
+    "ru": "Один длинный звук, передаваемый судном, означает:",
+    "options": {
+      "A": {
+        "pl": "Uwaga",
+        "ru": "внимание",
+        "correct": true
+      },
+      "B": {
+        "pl": "Moje maszyny pracują wstecz",
+        "ru": "моя моторная яхта идет задним ходом",
+        "correct": false
+      },
+      "C": {
+        "pl": "Nie mogę manewrować",
+        "ru": "я не могу маневрировать",
+        "correct": false
+      }
+    },
+    "number": 51
+  },
+  {
+    "pl": "Widoczna nocą jednostka pokazuje światła jak na rysunku. Określ rodzaj statku i stronę.",
+    "ru": "Видимая ночью судоходное средство показывает огни, как показано на рисунке. Определите тип судна и сторону.",
+    "options": {
+      "A": {
+        "pl": "Jacht  żaglowy  widoczny  od  dziobu",
+        "ru": "парусная яхта видна с носовой части",
+        "correct": false
+      },
+      "B": {
+        "pl": "Statek mechaniczny widoczny od dziobu",
+        "ru": "судно, видимое с носовой части $",
+        "correct": true
+      },
+      "C": {
+        "pl": "Statek mechaniczny widoczny od rufy",
+        "ru": "судно, видимое с кормы",
+        "correct": false
+      }
+    },
+    "number": 52
+  },
+  {
+    "pl": "Czarna kula wywieszona na dziobie statku oznacza:",
+    "ru": "Черный шар, установленный на носу корабля, означает:",
+    "options": {
+      "A": {
+        "pl": "Statek stojący na mieliźnie",
+        "ru": "судно, стоящее на мели",
+        "correct": false
+      },
+      "B": {
+        "pl": "Pojedynczy mały statek w ruchu",
+        "ru": "одиночный маленький корабль в движении",
+        "correct": false
+      },
+      "C": {
+        "pl": "Statek na kotwicy",
+        "ru": "корабль на якоре",
+        "correct": true
+      }
+    },
+    "number": 53
+  },
+  {
+    "pl": "Oznakowanie dzienne promu to:",
+    "ru": "Дневная маркировка парома - это:",
+    "options": {
+      "A": {
+        "pl": "Dwie czarne kule jedna pod drugą",
+        "ru": "два черных шара друг под другом",
+        "correct": false
+      },
+      "B": {
+        "pl": "Zielona kula",
+        "ru": "зеленая сфера",
+        "correct": true
+      },
+      "C": {
+        "pl": "Czerwona kula",
+        "ru": "красный шар",
+        "correct": false
+      }
+    },
+    "number": 54
+  },
+  {
+    "pl": "Na burtach unieruchomionego statku wywieszono czerwono-białą i czerwoną flagę. Z której strony miniesz tę jednostkę?",
+    "ru": "На бортах обездвиженного судна были вывешены красно-белый и красный флаги. С какой стороны вы пройдете это судно?",
+    "options": {
+      "A": {
+        "pl": "Od strony bezpieczniejszej wody",
+        "ru": "с более безопасной стороны",
+        "correct": false
+      },
+      "B": {
+        "pl": "Od   strony   flagi   czerwonej",
+        "ru": "со стороны красного флага",
+        "correct": false
+      },
+      "C": {
+        "pl": "Od strony flagi czerwono-białej",
+        "ru": "со стороны красно-белого флага",
+        "correct": true
+      }
+    },
+    "number": 55
+  },
+  {
+    "pl": "Patent sternika motorowodnego (osoby pełnoletniej) upoważnia do:",
+    "ru": "Патент стерника, управляющего моторной лодкой (совершеннолетнему) дает право на:",
+    "options": {
+      "A": {
+        "pl": "Prowadzenia jachtów motorowych po wodach śródlądowych bez ograniczeń",
+        "ru": "управление моторными яхтами во внутренних водах без ограничений",
+        "correct": true
+      },
+      "B": {
+        "pl": "Prowadzenia jachtów motorowych po wodach śródlądowych o mocy silnika do 60 KM",
+        "ru": "управление моторными яхтами во внутренних водах с мощностью двигателя до 60 л.с.",
+        "correct": false
+      },
+      "C": {
+        "pl": "Prowadzenia jachtów motorowych po wodach śródlądowych o długości do 7,5m",
+        "ru": "Управление моторными яхтами во внутренних водах длиной до 7,5 м",
+        "correct": false
+      }
+    },
+    "number": 56
+  },
+  {
+    "pl": "Pierwszą czynnością po wywrotce jachtu jest:",
+    "ru": "Первое действие после опрокидывания яхты это:",
+    "options": {
+      "A": {
+        "pl": "Policzenie załogi",
+        "ru": "подсчет экипажа",
+        "correct": true
+      },
+      "B": {
+        "pl": "Sprawdzenie szczelności kadłuba",
+        "ru": "проверка герметичности корпуса",
+        "correct": false
+      },
+      "C": {
+        "pl": "Odłączenie akumulatora",
+        "ru": "отключение аккумулятора",
+        "correct": false
+      }
+    },
+    "number": 57
+  },
+  {
+    "pl": "W jaki sposób może ograniczyć utratę ciepła rozbitek przebywający w wodzie?",
+    "ru": "Как можно ограничить потерю тепла потерпевшему кораблекрушение, находящемуся в воде?",
+    "options": {
+      "A": {
+        "pl": "Wykonując intensywne  ruchy",
+        "ru": "выполнение интенсивных движений",
+        "correct": false
+      },
+      "B": {
+        "pl": "Podciągając złączone kolana od brody i obejmując je oburącz",
+        "ru": "подтянуть соединенные колени до подбородка и обнять их обеими руками",
+        "correct": true
+      },
+      "C": {
+        "pl": "Zdejmując zbędną odzież",
+        "ru": "снимая лишнюю одежду",
+        "correct": false
+      }
+    },
+    "number": 58
+  },
+  {
+    "pl": "Ogrzewanie człowieka, który uległ przechłodzeniu po wyjściu z wody należy przeprowadzać:",
+    "ru": "Согревание человека, который переохладился после выхода из воды, следует проводить:",
+    "options": {
+      "A": {
+        "pl": "Stopniowo",
+        "ru": "постепенно",
+        "correct": true
+      },
+      "B": {
+        "pl": "Szybko",
+        "ru": "быстро",
+        "correct": false
+      },
+      "C": {
+        "pl": "Nie ma znaczenia",
+        "ru": "не имеет значения",
+        "correct": false
+      }
+    },
+    "number": 59
+  },
+  {
+    "pl": "Człowiek, któremu rzucono koło ratunkowe:",
+    "ru": "Человек, которому брошен спасательный круг:",
+    "options": {
+      "A": {
+        "pl": "Kładzie  się na  nim",
+        "ru": "ложится на него",
+        "correct": false
+      },
+      "B": {
+        "pl": "Zakłada je przez głowę pod ramiona",
+        "ru": "надевает его через голову под плечи",
+        "correct": true
+      },
+      "C": {
+        "pl": "Trzyma się go rękoma",
+        "ru": "держится за него руками",
+        "correct": false
+      }
+    },
+    "number": 60
+  },
+  {
+    "pl": "Podczas alarmu opuszczenia jednostki pas ratunkowy należy zakładać:",
+    "ru": "Во время аварийной сигнализации необходимо зафиксировать спасательный пояс:",
+    "options": {
+      "A": {
+        "pl": "Pod pokładem",
+        "ru": "под палубой",
+        "correct": false
+      },
+      "B": {
+        "pl": "Na pokładzie",
+        "ru": "на борту",
+        "correct": true
+      },
+      "C": {
+        "pl": "W wodzie",
+        "ru": "в воде",
+        "correct": false
+      }
+    },
+    "number": 61
+  },
+  {
+    "pl": "Co to jest hipotermia?",
+    "ru": "Что такое переохлаждение?",
+    "options": {
+      "A": {
+        "pl": "Wychłodzenie organizmu",
+        "ru": "переохлаждение организма",
+        "correct": true
+      },
+      "B": {
+        "pl": "Przegrzanie organizmu",
+        "ru": "перегрев организма",
+        "correct": false
+      },
+      "C": {
+        "pl": "Przewianie organizmu",
+        "ru": "предрасположенность организма",
+        "correct": false
+      }
+    },
+    "number": 62
+  },
+  {
+    "pl": "Złamanie przedramienia unieruchamiamy:",
+    "ru": "Перелом предплечья необходимо обездвижить:",
+    "options": {
+      "A": {
+        "pl": "W miejscu złamania",
+        "ru": "в месте перелома",
+        "correct": false
+      },
+      "B": {
+        "pl": "W miejscu  złamania z nadgarstkiem",
+        "ru": "в месте перелома с запястьем",
+        "correct": false
+      },
+      "C": {
+        "pl": "Przedramię ze stawem łokciowym i nadgarstkiem",
+        "ru": "Предплечье с локтевым суставом и запястьем",
+        "correct": true
+      }
+    },
+    "number": 63
+  },
+  {
+    "pl": "Łączność alarmową na radiu VHF prowadzimy na kanale:",
+    "ru": "Аварийная связь на УКВ-радио осуществляется по каналу:",
+    "options": {
+      "A": {
+        "pl": "Kanał 112",
+        "ru": "канал 112",
+        "correct": false
+      },
+      "B": {
+        "pl": "Kanał 16",
+        "ru": "канал 16",
+        "correct": true
+      },
+      "C": {
+        "pl": "Kanał 19",
+        "ru": "канал 19",
+        "correct": false
+      }
+    },
+    "number": 64
+  },
+  {
+    "pl": "Ile kamizelek ratunkowych powinno znajdować się na pokładzie jachtu wypływającego w rejs?",
+    "ru": "Сколько спасательных жилетов должно быть на борту яхты, отправляющейся в круиз?",
+    "options": {
+      "A": {
+        "pl": "Dla każdego członka załogi",
+        "ru": "для каждого члена экипажа",
+        "correct": true
+      },
+      "B": {
+        "pl": "Dla przynajmniej połowy załogi",
+        "ru": "по крайней мере для половины экипажа.",
+        "correct": false
+      },
+      "C": {
+        "pl": "Tylko dla osób nieletnich",
+        "ru": "только для несовершеннолетних",
+        "correct": false
+      }
+    },
+    "number": 65
+  },
+  {
+    "pl": "Do gaszenia palącej się benzyny należy użyć:",
+    "ru": "Для тушения горящего бензина необходимо использовать:",
+    "options": {
+      "A": {
+        "pl": "Oleju  gaśniczego",
+        "ru": "огнетушащее масло",
+        "correct": false
+      },
+      "B": {
+        "pl": "Gaśnicy proszkowej",
+        "ru": "порошковый огнетушитель",
+        "correct": true
+      },
+      "C": {
+        "pl": "Wody i detergentów",
+        "ru": "воду и моющие средства",
+        "correct": false
+      }
+    },
+    "number": 66
+  },
+  {
+    "pl": "Co należy robić w przypadku pożaru silnika stacjonarnego?",
+    "ru": "Что делать при возгорании стационарного двигателя?",
+    "options": {
+      "A": {
+        "pl": "Wyłączyć  silnik,  otworzyć  komorę  silnika  i  gasić  za  pomocą  gaśnicy",
+        "ru": "выключите двигатель, откройте моторный отсек и тушите огнетушителем",
+        "correct": false
+      },
+      "B": {
+        "pl": "Zamknąć dopływ paliwa, wyłączyć silnik, gasić za pomocą gaśnicy przez mały otwór",
+        "ru": "закройте подачу топлива, выключите двигатель, потушите огнетушителем через небольшое отверстие",
+        "correct": true
+      },
+      "C": {
+        "pl": "Wyłączyć silnik. Gasić silnik wodą",
+        "ru": "выключите двигатель, гасить двигатель водой",
+        "correct": false
+      }
+    },
+    "number": 67
+  },
+  {
+    "pl": "Przed rozpoczęciem rejsu należy:",
+    "ru": "Перед началом рейса необходимо:",
+    "options": {
+      "A": {
+        "pl": "Zapoznać członków załogi ze środkami ratunkowymi i przećwiczyć ich używanie",
+        "ru": "познакомить членов экипажа со спасательными средствами и попрактиковаться в их использовании",
+        "correct": true
+      },
+      "B": {
+        "pl": "Omówić kolejne etapy rejsu",
+        "ru": "обсудить этапы рейса",
+        "correct": false
+      },
+      "C": {
+        "pl": "Sprawdzić ilość ciepłych ubrań zabranych na rejs przez każdego uczestnika rejsu",
+        "ru": "проверить количество теплой одежды, взятой в круиз каждым участником",
+        "correct": false
+      }
+    },
+    "number": 68
+  },
+  {
+    "pl": "Podnoszenie i opuszczanie w górę i w dół wyprostowanych ramion na pokładzie jachtu oznacza:",
+    "ru": "Подъем и опускание вверх и вниз прямых рук на палубе яхты означает:",
+    "options": {
+      "A": {
+        "pl": "Wzywam pomocy",
+        "ru": "призываю на помощь",
+        "correct": true
+      },
+      "B": {
+        "pl": "Utraciłem zdolność manewrowania",
+        "ru": "потерял способность маневрировать",
+        "correct": false
+      },
+      "C": {
+        "pl": "Niebezpieczeństwo zderzenia",
+        "ru": "Опасность столкновения",
+        "correct": false
+      }
+    },
+    "number": 69
+  },
+  {
+    "pl": "Jakie oddziaływanie ma prawoskrętna śruba przy początkowej fazie płynięcia do przodu?",
+    "ru": "Какое влияние оказывает правосторонний винт при начальной фазе прямого потока?",
+    "options": {
+      "A": {
+        "pl": "Odrzuca rufę w prawo",
+        "ru": "отбрасывает корму вправо",
+        "correct": true
+      },
+      "B": {
+        "pl": "Odrzuca rufę w lewo",
+        "ru": "отбрасывает корму влево",
+        "correct": false
+      },
+      "C": {
+        "pl": "Odrzuca dziób w prawo",
+        "ru": "отбрасывает нос вправо",
+        "correct": false
+      }
+    },
+    "number": 70
+  },
+  {
+    "pl": "Mając możliwość wyboru miejsca i sposobu cumowania, który wariant manewru jest bezpieczniejszy?",
+    "ru": "Имея возможность выбрать место и способ швартовки, какой вариант маневра безопаснее?",
+    "options": {
+      "A": {
+        "pl": "Cumowanie pod wiatr i pod prąd",
+        "ru": "швартовка против ветра и против течения",
+        "correct": true
+      },
+      "B": {
+        "pl": "Cumowanie z wiatrem dopychającym",
+        "ru": "швартовка с попутным ветром",
+        "correct": false
+      },
+      "C": {
+        "pl": "Cumowanie z prądem i wiatrem",
+        "ru": "швартовка с попутными течением и ветром",
+        "correct": false
+      }
+    },
+    "number": 71
+  },
+  {
+    "pl": "Jako holowany, gdzie umocujesz linę holowniczą na swojej łodzi?",
+    "ru": "Как буксируемый, где вы закрепите буксирный трос на своей лодке?",
+    "options": {
+      "A": {
+        "pl": "Możliwie najdalej z przodu na dziobie",
+        "ru": "как можно дальше, спереди на носу",
+        "correct": true
+      },
+      "B": {
+        "pl": "Na środku łodzi",
+        "ru": "в середине лодки",
+        "correct": false
+      },
+      "C": {
+        "pl": "Nie ma znaczenia",
+        "ru": "не имеет значения",
+        "correct": false
+      }
+    },
+    "number": 72
+  },
+  {
+    "pl": "Po wpłynięciu do śluzy należy:",
+    "ru": "После входа в шлюз необходимо:",
+    "options": {
+      "A": {
+        "pl": "Zacumować na stałe i opuścić jacht",
+        "ru": "пришвартоваться навсегда и покинуть яхту",
+        "correct": false
+      },
+      "B": {
+        "pl": "Zacumować jacht w sposób umożliwiający pracę na cumach",
+        "ru": "пришвартовать яхту таким образом, чтобы она могла работать на швартовых (двигалась вверх и вниз)",
+        "correct": true
+      },
+      "C": {
+        "pl": "Nie cumować, trzymać się bosakami",
+        "ru": "не швартоваться, держаться не пришвартованным",
+        "correct": false
+      }
+    },
+    "number": 73
+  },
+  {
+    "pl": "Rufowa część jachtu, do której mocowany jest silnik to:",
+    "ru": "Кормовая часть яхты, к которой крепится двигатель:",
+    "options": {
+      "A": {
+        "pl": "półpokład",
+        "ru": "полупокрытие",
+        "correct": false
+      },
+      "B": {
+        "pl": "pawęż",
+        "ru": "транец",
+        "correct": true
+      },
+      "C": {
+        "pl": "dziobnica",
+        "ru": "клюв",
+        "correct": false
+      }
+    },
+    "number": 74
+  },
+  {
+    "pl": "Lina cumująca jacht, biegnąca z dziobu jachtu, na nabrzeże w kierunku rufy to:",
+    "ru": "Швартов яхты, идущий от носовой части яхты к причалу к корме:",
+    "options": {
+      "A": {
+        "pl": "cuma dziobowa",
+        "ru": "носовой швартовый",
+        "correct": false
+      },
+      "B": {
+        "pl": "szpring dziobowy",
+        "ru": "носовой шпринг",
+        "correct": true
+      },
+      "C": {
+        "pl": "brest",
+        "ru": "прижимной",
+        "correct": false
+      }
+    },
+    "number": 75
+  },
+  {
+    "pl": "Lina cumująca jacht, biegnąca z dziobu prostopadle do nabrzeża to:",
+    "ru": "Швартов яхты, идущий от носа перпендикулярно причалу:",
+    "options": {
+      "A": {
+        "pl": "cuma dziobowa",
+        "ru": "носовой швартовый",
+        "correct": false
+      },
+      "B": {
+        "pl": "szpring dziobowy",
+        "ru": "носовой шпринг",
+        "correct": false
+      },
+      "C": {
+        "pl": "brest dziobowy",
+        "ru": "прижимной носовой",
+        "correct": true
+      }
+    },
+    "number": 76
+  },
+  {
+    "pl": "Lina cumująca jacht, biegnąca z dziobu jachtu, na nabrzeże na poler znajdujący się przed dziobem jachtu to:",
+    "ru": "Швартов яхты, идущий от носовой части яхты к причалу на кнехт, расположенный перед носовой частью яхты:",
+    "options": {
+      "A": {
+        "pl": "cuma dziobowa",
+        "ru": "носовой швартовый",
+        "correct": true
+      },
+      "B": {
+        "pl": "szpring dziobowy",
+        "ru": "носовой шпринг",
+        "correct": false
+      },
+      "C": {
+        "pl": "brest dziobowy",
+        "ru": "прижимной носовой",
+        "correct": false
+      }
+    },
+    "number": 77
+  },
+  {
+    "pl": "Liny służące do cumowania to:",
+    "ru": "Веревки, используемые для швартовки:",
+    "options": {
+      "A": {
+        "pl": "cuma dziobowa i reflinka",
+        "ru": "носовой швартивый и рефлин",
+        "correct": false
+      },
+      "B": {
+        "pl": "cumy i szpringi (dziobowe i rufowe)",
+        "ru": "швартовые и шпринги (носовые и кормовые)",
+        "correct": true
+      },
+      "C": {
+        "pl": "szpring dziobowy i rufowy oraz life-liny",
+        "ru": "носовой и кормовой шпринги и веревка для спасения утопающего",
+        "correct": false
+      }
+    },
+    "number": 78
+  },
+  {
+    "pl": "Do mocowania cum na nabrzeżu służy:",
+    "ru": "Для крепления веревок (канатов) на набережной используется:",
+    "options": {
+      "A": {
+        "pl": "balustrada pomostu",
+        "ru": "перила пирса",
+        "correct": false
+      },
+      "B": {
+        "pl": "dowolny znak nawigacyjny",
+        "ru": "любой навигационный знак",
+        "correct": false
+      },
+      "C": {
+        "pl": "poler",
+        "ru": "кнехт",
+        "correct": true
+      }
+    },
+    "number": 79
+  },
+  {
+    "pl": "Do mocowania cum i innych lin na pokładzie służy:",
+    "ru": "Для крепления канатов и других веревок на палубе используется:",
+    "options": {
+      "A": {
+        "pl": "knaga",
+        "ru": "утка",
+        "correct": true
+      },
+      "B": {
+        "pl": "rumpel",
+        "ru": "румпель",
+        "correct": false
+      },
+      "C": {
+        "pl": "odbijacz",
+        "ru": "отбойник",
+        "correct": false
+      }
+    },
+    "number": 80
+  },
+  {
+    "pl": "Denniki to elementy:",
+    "ru": "Стрингер - это элементы:",
+    "options": {
+      "A": {
+        "pl": "ozdobne kadłuba",
+        "ru": "декоративного корпуса",
+        "correct": false
+      },
+      "B": {
+        "pl": "konstrukcyjne  kadłuba,  łączące  pokład  z  wręgami",
+        "ru": "конструктивные фюзеляжи, соединяющие палубу со шпангоутами",
+        "correct": false
+      },
+      "C": {
+        "pl": "konstrukcyjne kadłuba, łączące stępkę (kil) z wręgami",
+        "ru": "конструктивные фюзеляжи, соединяющие киль со шпангоутами",
+        "correct": true
+      }
+    },
+    "number": 81
+  },
+  {
+    "pl": "Pokładniki to elementy:  может настил?",
+    "ru": "Палубный настил - это элементы:",
+    "options": {
+      "A": {
+        "pl": "ozdobne kadłuba",
+        "ru": "декоративного корпуса",
+        "correct": false
+      },
+      "B": {
+        "pl": "konstrukcyjne kadłuba, łączące pokład z wręgami",
+        "ru": "конструктивные фюзеляжи, соединяющие палубу со шпангоутами",
+        "correct": true
+      },
+      "C": {
+        "pl": "konstrukcyjne kadłuba, łączące kil z wręgami",
+        "ru": "конструктивные фюзеляжи, соединяющие киль со шпангоутами",
+        "correct": false
+      }
+    },
+    "number": 82
+  },
+  {
+    "pl": "Greting to:",
+    "ru": "Слань (паеолы):",
+    "options": {
+      "A": {
+        "pl": "drewniana podłoga na jachcie",
+        "ru": "деревянный пол на яхте",
+        "correct": true
+      },
+      "B": {
+        "pl": "przestrzeń w dziobowej części kadłuba",
+        "ru": "пространство в носовой части фюзеляжа",
+        "correct": false
+      },
+      "C": {
+        "pl": "przestrzeń w rufowej części kadłuba",
+        "ru": "",
+        "correct": false
+      }
+    },
+    "number": 83
+  },
+  {
+    "pl": "Achterpik to:",
+    "ru": "Ахтерпик это:",
+    "options": {
+      "A": {
+        "pl": "drewniana podłoga na jachcie",
+        "ru": "деревянный пол на яхте",
+        "correct": false
+      },
+      "B": {
+        "pl": "przestrzeń w dziobowej części kadłuba",
+        "ru": "пространство в носовой части фюзеляжа",
+        "correct": false
+      },
+      "C": {
+        "pl": "przestrzeń w rufowej części kadłuba",
+        "ru": "пространство в кормовой части корпуса",
+        "correct": true
+      }
+    },
+    "number": 84
+  },
+  {
+    "pl": "",
+    "ru": "Транец это:",
+    "options": {
+      "A": {
+        "pl": "drewniana podłoga na jachcie",
+        "ru": "деревянный пол на яхте",
+        "correct": false
+      },
+      "B": {
+        "pl": "przestrzeń w dziobowej części kadłuba",
+        "ru": "пространство в носовой части фюзеляжа",
+        "correct": false
+      },
+      "C": {
+        "pl": "przestrzeń w rufowej części kadłuba",
+        "ru": "пространство в кормовой части корпуса",
+        "correct": true
+      }
+    },
+    "number": 85
+  },
+  {
+    "pl": "Forpik to:",
+    "ru": "Форпик:",
+    "options": {
+      "A": {
+        "pl": "drewniana podłoga na jachcie",
+        "ru": "деревянный пол на яхте",
+        "correct": false
+      },
+      "B": {
+        "pl": "przestrzeń w dziobowej części kadłuba",
+        "ru": "пространство в носовой части фюзеляжа $",
+        "correct": true
+      },
+      "C": {
+        "pl": "przestrzeń w rufowej części kadłuba",
+        "ru": "пространство в кормовой части корпуса",
+        "correct": false
+      }
+    },
+    "number": 86
+  },
+  {
+    "pl": "Wzmocnienia chroniące kadłub jachtu z zewnątrz to:",
+    "ru": "Накладки для защиты корпуса яхты снаружи:",
+    "options": {
+      "A": {
+        "pl": "bukszpryty",
+        "ru": "бушприты",
+        "correct": false
+      },
+      "B": {
+        "pl": "listwy odbojowe odbojnice)",
+        "ru": "привальный брус",
+        "correct": true
+      },
+      "C": {
+        "pl": "Polery",
+        "ru": "полеры",
+        "correct": false
+      }
+    },
+    "number": 87
+  },
+  {
+    "pl": "Kotwica przedstawiona obok to:",
+    "ru": "Якорь, расположенный на рисунке:",
+    "options": {
+      "A": {
+        "pl": "kotwica admiralicji",
+        "ru": "якорь Адмиралтейства",
+        "correct": false
+      },
+      "B": {
+        "pl": "kotwica Danfortha (patentowa)",
+        "ru": "якорь Данфорта (патент)",
+        "correct": true
+      },
+      "C": {
+        "pl": "kotwica pługowa (CQR)",
+        "ru": "плуговый якорь (CQR)",
+        "correct": false
+      }
+    },
+    "number": 88
+  },
+  {
+    "pl": "Celem utrzymania sprawności działania instalacji zęzowej jachtu należy:",
+    "ru": "Для поддержания работоспособности трюмной установки яхты необходимо:",
+    "options": {
+      "A": {
+        "pl": "dbać, aby do zęzy nie dostawały się przedmioty mogące zablokować pracę pomp lub zatkać przewody",
+        "ru": "следить за тем, чтобы в трюм не попадали предметы, которые могут блокировать работу насосов или забивать трубопроводы",
+        "correct": true
+      },
+      "B": {
+        "pl": "przed rozpoczęciem rejsu zalać zęzę wodą i ją wypompować",
+        "ru": "перед началом круиза залить трюм водой и откачать её",
+        "correct": false
+      },
+      "C": {
+        "pl": "przynajmniej raz na 3 miesiące wzywać wyspecjalizowany serwis w celu dokonania konserwacji systemu zęzowego",
+        "ru": "не реже одного раза в 3 месяца вызывать специализированный сервис для обслуживания трюмной системы",
+        "correct": false
+      }
+    },
+    "number": 89
+  },
+  {
+    "pl": "Element przedstawiony obok to:",
+    "ru": "Элемент, представленный рядом:",
+    "options": {
+      "A": {
+        "pl": "svekla",
+        "ru": "скоба",
+        "correct": true
+      },
+      "B": {
+        "pl": "raksa",
+        "ru": "ракса",
+        "correct": false
+      },
+      "C": {
+        "pl": "blok",
+        "ru": "блок",
+        "correct": false
+      }
+    },
+    "number": 90
+  },
+  {
+    "pl": "Jacht składający się z dwóch kadłubów to:",
+    "ru": "Яхта, состоящая из двух корпусов:",
+    "options": {
+      "A": {
+        "pl": "catamaran",
+        "ru": "катамаран",
+        "correct": true
+      },
+      "B": {
+        "pl": "trimaran",
+        "ru": "тримаран С. скутер",
+        "correct": false
+      },
+      "C": {
+        "pl": "skuter",
+        "ru": "",
+        "correct": false
+      }
+    },
+    "number": 91
+  },
+  {
+    "pl": "Używanie elektrycznej windy kotwicznej powinno być realizowane wyłącznie",
+    "ru": "Использование электрической якорной лебедки должно осуществляться только:",
+    "options": {
+      "A": {
+        "pl": "poza portami",
+        "ru": "за пределами портов",
+        "correct": false
+      },
+      "B": {
+        "pl": "w porze dziennej, aby nie powodować nadmiernego hałasu",
+        "ru": "в дневное время, чтобы не шуметь",
+        "correct": false
+      },
+      "C": {
+        "pl": "przy pracującym silniku głównym na obrotach gwarantujących ładowanie akumulatora",
+        "ru": "при работающем главном двигателе на оборотах, гарантирующих заряд батареи",
+        "correct": true
+      }
+    },
+    "number": 92
+  },
+  {
+    "pl": "Podstawowa instalacja elektryczna na większości jachtów charakteryzuje się napięciem:",
+    "ru": "Базовая электрическая система на большинстве яхт характеризуется напряжением:",
+    "options": {
+      "A": {
+        "pl": "230 Volt",
+        "ru": "230 вольт",
+        "correct": false
+      },
+      "B": {
+        "pl": "12 Volt",
+        "ru": "12 вольт",
+        "correct": true
+      },
+      "C": {
+        "pl": "24 Volt",
+        "ru": "24 вольт",
+        "correct": false
+      }
+    },
+    "number": 93
+  },
+  {
+    "pl": "Stosowany w jachtowych instalacjach gazowych gaz jest",
+    "ru": "Газ, используемый в яхтенных газовых установках, является",
+    "options": {
+      "A": {
+        "pl": "lżejszy od powietrza",
+        "ru": "легче воздуха",
+        "correct": false
+      },
+      "B": {
+        "pl": "ma taki sam ciezar jak powietrze",
+        "ru": "он имеет тот же вес, что и воздух",
+        "correct": false
+      },
+      "C": {
+        "pl": "cięższy od powietrza",
+        "ru": "тяжелее воздуха",
+        "correct": true
+      }
+    },
+    "number": 94
+  },
+  {
+    "pl": "Uruchamiając kuchenkę gazowa, najpierw należy",
+    "ru": "При запуске газовой плиты сначала необходимо",
+    "options": {
+      "A": {
+        "pl": "otworzyć zawór na butli",
+        "ru": "открыть клапан на баллоне",
+        "correct": true
+      },
+      "B": {
+        "pl": "otworzyć zawór przy kuchence",
+        "ru": "открыть клапан у плиты",
+        "correct": false
+      },
+      "C": {
+        "pl": "wykonać test przyłączy gazowych przy pomocy zapalniczki",
+        "ru": "выполнить тест газовых соединений с помощью зажигалки",
+        "correct": false
+      }
+    },
+    "number": 95
+  },
+  {
+    "pl": "wyłączając kuchenkę",
+    "ru": "выключая плиту",
+    "options": {
+      "A": {
+        "pl": "należy najpierw zamknąć zawór na butli, potem zawor na kuchence",
+        "ru": "сначала закройте клапан на баллоне, затем клапан на плите",
+        "correct": true
+      },
+      "B": {
+        "pl": "wystarczy zamknąć zawór kuchenki",
+        "ru": "просто закройте клапан плиты",
+        "correct": false
+      },
+      "C": {
+        "pl": "wystarczy zamknąć zawór na butli",
+        "ru": "просто закройте клапан на баллоне",
+        "correct": false
+      }
+    },
+    "number": 96
+  },
+  {
+    "pl": "kuchenki jachtowe wykorzystają z reguły",
+    "ru": "яхтенные плиты будут использовать, как правило",
+    "options": {
+      "A": {
+        "pl": "LPG",
+        "ru": "LPG",
+        "correct": false
+      },
+      "B": {
+        "pl": "propan-butan",
+        "ru": "пропан-бутан",
+        "correct": true
+      },
+      "C": {
+        "pl": "gaz ziemny",
+        "ru": "природный газ",
+        "correct": false
+      }
+    },
+    "number": 97
+  },
+  {
+    "pl": "Kolorem czerwonym oznaczone są",
+    "ru": "Красным цветом обозначены",
+    "options": {
+      "A": {
+        "pl": "elementy wyposażenia ppoż.",
+        "ru": "элементы оборудования ППБ",
+        "correct": true
+      },
+      "B": {
+        "pl": "elementy systemu GMDSS",
+        "ru": "компоненты системы GMDSS",
+        "correct": false
+      },
+      "C": {
+        "pl": "elementy instalacji elektrycznej",
+        "ru": "элементы электропроводки III. Silniki i układy napędowe III. Двигатели и силовые агрегаты",
+        "correct": false
+      }
+    },
+    "number": 98
+  },
+  {
+    "pl": "Przed uruchomieniem silnika zaburtowego:",
+    "ru": "Перед запуском подвесного двигателя:",
+    "options": {
+      "A": {
+        "pl": "należy podnieść go na pantografie tak, aby śruba nie była zanurzona w wodzie",
+        "ru": "должны поднять его на пантографе, чтобы винт не был погружен в воду",
+        "correct": false
+      },
+      "B": {
+        "pl": "należy wstrząsnąć bakiem, aby wymieszać mieszankę paliwową",
+        "ru": "встряхнуть бак, чтобы смешать топливную смесь",
+        "correct": false
+      },
+      "C": {
+        "pl": "należy ustawić przekładnię na bieg jałowy, odkręcić odpowietrznik zbiornika paliwa i opuścić silnik tak, aby spodzina była cała pod wodą",
+        "ru": "установить коробку передач на холостой ход, открутить вентиляционное отверстие топливного бака и опустить двигатель так, чтобы нижняя часть была полностью под водой",
+        "correct": true
+      }
+    },
+    "number": 99
+  },
+  {
+    "pl": "Podczas pracy typowego silnika zaburtowego:",
+    "ru": "При работе типичного подвесного мотора:",
+    "options": {
+      "A": {
+        "pl": "z otworu kontrolnego powinna delikatnie kapać gorąca woda",
+        "ru": "горячая вода должна осторожно капать из контрольного отверстия",
+        "correct": false
+      },
+      "B": {
+        "pl": "z otworu kontrolnego powinna lać się równym strumieniem woda",
+        "ru": "из контрольного отверстия должна литься ровная струя воды",
+        "correct": true
+      },
+      "C": {
+        "pl": "nie powinna lać się z silnika woda",
+        "ru": "Вода не должна вытекать из двигателя",
+        "correct": false
+      }
+    },
+    "number": 100
+  },
+  {
+    "pl": "Pompa wody zaburtowej używana w układzie chłodzenia silników jachtowych to:",
+    "ru": "Подвесной водяной насос, используемый в системе охлаждения яхтенных двигателей:",
+    "options": {
+      "A": {
+        "pl": "pompa tłokowa",
+        "ru": "поршневой насос",
+        "correct": false
+      },
+      "B": {
+        "pl": "pompa wirnikowa z wirnikiem gumowym",
+        "ru": "роторный насос с резиновым рабочим колесом",
+        "correct": true
+      },
+      "C": {
+        "pl": "pompa membranowa",
+        "ru": "мембранный насос",
+        "correct": false
+      }
+    },
+    "number": 101
+  },
+  {
+    "pl": "Silnik zaburtowy należy uruchamiać wyłącznie, gdy spodzina jest całkowicie w wodzie, gdyż:",
+    "ru": "Подвесной двигатель следует запускать только тогда, когда нижняя часть полностью находится в воде, так как:",
+    "options": {
+      "A": {
+        "pl": "wtedy silnik ma zapewnione chłodzenie",
+        "ru": "тогда двигатель охлаждается $",
+        "correct": true
+      },
+      "B": {
+        "pl": "wtedy nie przekraczamy norm emisji hałasu",
+        "ru": "тогда мы не превышаем нормы шума",
+        "correct": false
+      },
+      "C": {
+        "pl": "wtedy nie przekraczamy norm dotyczących emisji spalin",
+        "ru": "тогда мы не превышаем нормы выбросов выхлопных газов",
+        "correct": false
+      }
+    },
+    "number": 102
+  },
+  {
+    "pl": "Podczas uruchamiania silnika zaburtowego z manetką w rumplu, manetka gazu powinna być w pozycji:",
+    "ru": "При запуске подвесного двигателя с переключателем в румпеле переключатель газа должен находиться в положении:",
+    "options": {
+      "A": {
+        "pl": "minimum",
+        "ru": "минимум",
+        "correct": false
+      },
+      "B": {
+        "pl": "maksimum",
+        "ru": "максимум",
+        "correct": false
+      },
+      "C": {
+        "pl": "start",
+        "ru": "старт",
+        "correct": true
+      }
+    },
+    "number": 103
+  },
+  {
+    "pl": "Przed uruchomieniem silnika stacjonarnego należy:",
+    "ru": "Перед запуском стационарного двигателя необходимо:",
+    "options": {
+      "A": {
+        "pl": "ustawić manetkę na bieg jałowy",
+        "ru": "установите переключатель на холостой ход $",
+        "correct": true
+      },
+      "B": {
+        "pl": "ustawić manetkę na wolno naprzód\"",
+        "ru": "установить переключатель на медленный вперед\"",
+        "correct": false
+      },
+      "C": {
+        "pl": "oddać cumy",
+        "ru": "отдать швартовы",
+        "correct": false
+      }
+    },
+    "number": 104
+  },
+  {
+    "pl": "Śruba napędowa z przekładnią typu „Z-drive\":",
+    "ru": "Приводной винт с редуктором типа \"Z-drive\" (водомёты):",
+    "options": {
+      "A": {
+        "pl": "może się poruszać w płaszczyźnie poziomej i pionowej",
+        "ru": "может двигаться в горизонтальной и вертикальной плоскости",
+        "correct": true
+      },
+      "B": {
+        "pl": "jest z reguły nieruchoma",
+        "ru": "она, как правило, неподвижна",
+        "correct": false
+      },
+      "C": {
+        "pl": "porusza się wyłącznie w płaszczyźnie pionowej",
+        "ru": "движется только в вертикальной плоскости",
+        "correct": false
+      }
+    },
+    "number": 105
+  },
+  {
+    "pl": "Śruba napędowa z przekładnią typu „S-drive\"/„Sail-drive\":",
+    "ru": "Винт с редуктором типа \"s-drive\"/„Sail-drive\":",
+    "options": {
+      "A": {
+        "pl": "może się poruszać w płaszczyźnie poziomej i pionowej",
+        "ru": "может двигаться в горизонтальной и вертикальной плоскости",
+        "correct": false
+      },
+      "B": {
+        "pl": "jest z reguły nieruchoma",
+        "ru": "она, как правило, неподвижна",
+        "correct": true
+      },
+      "C": {
+        "pl": "porusza się tylko i wyłącznie w płaszczyźnie pionowej morzu",
+        "ru": "движется только в вертикальной плоскости",
+        "correct": false
+      }
+    },
+    "number": 106
+  },
+  {
+    "pl": "Wymiana wirnika pompy wodnej w silniku zaburtowym eksploatowanym na :",
+    "ru": "Замена крыльчатки водяного насоса на подвесном моторе, работающем в море:",
+    "options": {
+      "A": {
+        "pl": "może być bezproblemowo wykonana przez sternika na wodzie, jeśli zajdzie potrzeba",
+        "ru": "может быть легко сделано рулевым на воде, если необходимо",
+        "correct": false
+      },
+      "B": {
+        "pl": "powinna być wykonywana w serwisie, podczas przeglądu silnika, min. co 2 lata",
+        "ru": "должно быть выполнено в сервисе, при осмотре двигателя, мин. каждые 2 года",
+        "correct": true
+      },
+      "C": {
+        "pl": "nie jest konieczna, gdyż wirnik jest przewidziany na całe życie\" silnika",
+        "ru": "не требуется, поскольку Ротор рассчитан на всю жизнь двигателя",
+        "correct": false
+      }
+    },
+    "number": 107
+  },
+  {
+    "pl": "W silnikach przyczepnych (zaburtowych) stosuje się z reguły przekładnię:",
+    "ru": "В тяговых (подвесных) моторах, как правило, используется трансмиссия:",
+    "options": {
+      "A": {
+        "pl": "mechaniczną",
+        "ru": "механическая",
+        "correct": true
+      },
+      "B": {
+        "pl": "hydrauliczną",
+        "ru": "гидравлическая",
+        "correct": false
+      },
+      "C": {
+        "pl": "pasową",
+        "ru": "ременная",
+        "correct": false
+      }
+    },
+    "number": 108
+  },
+  {
+    "pl": "Napęd strugowodny jest charakterystyczny dla:",
+    "ru": "Струйный привод характерен для:",
+    "options": {
+      "A": {
+        "pl": "skuterów wodnych",
+        "ru": "гидроциклов",
+        "correct": true
+      },
+      "B": {
+        "pl": "barek turystycznych",
+        "ru": "туристических барж",
+        "correct": false
+      },
+      "C": {
+        "pl": "jachtów żaglowo-motorowych",
+        "ru": "парусно-моторных яхт",
+        "correct": false
+      }
+    },
+    "number": 109
+  },
+  {
+    "pl": "Co to jest duoprop?",
+    "ru": "Что такое контрвращающийся винт?",
+    "options": {
+      "A": {
+        "pl": "pędnik w jachtach motorowych złożony z dwu śrub pracujących współosiowo: jedna jest prawoskrętna a druga lewoskrętna, śruby obracają się w przeciwnych kierunkach",
+        "ru": "устройство на моторных яхтах, состоящий из двух винтов, работающих соосно: один правый, а другой левый, винты вращаются в противоположных направлениях",
+        "correct": true
+      },
+      "B": {
+        "pl": "układ napędowy złożony z dwóch silników i dwóch linii wałów",
+        "ru": "трансмиссия, состоящая из двух двигателей и двух линий валов",
+        "correct": false
+      },
+      "C": {
+        "pl": "podwójny system chłodzenia w silnikach stacjonarnych",
+        "ru": "двойная система охлаждения в стационарных двигателях",
+        "correct": false
+      }
+    },
+    "number": 110
+  },
+  {
+    "pl": "Ster strumieniowy na jachcie to:",
+    "ru": "Подруливающее устройство на яхте - это:",
+    "options": {
+      "A": {
+        "pl": "pędnik pracujący poprzecznie do osi wzdłużnej jachtu, umieszczony na dziobie (rzadziej również na rufie), pomagający w manewrach portowych",
+        "ru": "устройство работающее поперечно с продольной осью яхты, расположенное на носу (реже также на корме), помогающее в маневрах при швартовке",
+        "correct": true
+      },
+      "B": {
+        "pl": "rodzaj napędu skuterów wodnych",
+        "ru": "тип привода гидроцикла",
+        "correct": false
+      },
+      "C": {
+        "pl": "dodatkowe urządzenie sterowe wykorzystywane, gdy jednostka porusza się w stanie bezwypornościowym",
+        "ru": "дополнительное рулевое устройство, используемое, когда судно движется в неуправляемом состоянии",
+        "correct": false
+      }
+    },
+    "number": 111
+  },
+  {
+    "pl": "Główne parametry charakteryzujące śrubę napędową jednostki pływającej to:",
+    "ru": "Основными параметрами, характеризующими гребной винт плавсредства, являются:",
+    "options": {
+      "A": {
+        "pl": "średnica wału śruby",
+        "ru": "диаметр вала винта",
+        "correct": false
+      },
+      "B": {
+        "pl": "skok śruby i średnica śruby",
+        "ru": "шаг винта и диаметр винта",
+        "correct": true
+      },
+      "C": {
+        "pl": "prędkość kątowa",
+        "ru": "угловая скорость",
+        "correct": false
+      }
+    },
+    "number": 112
+  },
+  {
+    "pl": "Przy śrubie lewoskrętnej pracującej wstecz rufa jest:",
+    "ru": "При левозакрученном винте, работающем задним ходом, корму:",
+    "options": {
+      "A": {
+        "pl": "zarzucana w prawą stronę",
+        "ru": "ведет в правую сторону",
+        "correct": true
+      },
+      "B": {
+        "pl": "zarzucana w lewą stronę",
+        "ru": "ведет в левую сторону С. не влияет",
+        "correct": false
+      },
+      "C": {
+        "pl": "niezarzucana",
+        "ru": "",
+        "correct": false
+      }
+    },
+    "number": 113
+  },
+  {
+    "pl": "Przy śrubie prawoskrętnej pracującej wstecz rufa jest:",
+    "ru": "При правозакрученном винте, работающем задним ходом, корму:",
+    "options": {
+      "A": {
+        "pl": "zarzucana w lewą stronę",
+        "ru": "ведет в правую сторону",
+        "correct": true
+      },
+      "B": {
+        "pl": "zarzucana w prawą stronę",
+        "ru": "ведет в левую сторону",
+        "correct": false
+      },
+      "C": {
+        "pl": "nie zarzucana",
+        "ru": "не влияет",
+        "correct": false
+      }
+    },
+    "number": 114
+  },
+  {
+    "pl": "Ile koni mechanicznych ma 1 kW:",
+    "ru": "Сколько лошадиных сил в 1 кВт:",
+    "options": {
+      "A": {
+        "pl": "1,85 KM",
+        "ru": "1,85 км",
+        "correct": false
+      },
+      "B": {
+        "pl": "1,56 KM",
+        "ru": "1,56 км",
+        "correct": false
+      },
+      "C": {
+        "pl": "1,36 KM",
+        "ru": "1,36 км",
+        "correct": true
+      }
+    },
+    "number": 115
+  },
+  {
+    "pl": "Czy silnik dwusuwowy jest wyposażony w miskę olejową:",
+    "ru": "Оснащен ли двухтактный двигатель масляным поддоном:",
+    "options": {
+      "A": {
+        "pl": "nie",
+        "ru": "Нет",
+        "correct": true
+      },
+      "B": {
+        "pl": "tak",
+        "ru": "Да",
+        "correct": false
+      },
+      "C": {
+        "pl": "zależnie od producenta",
+        "ru": "В зависимости от производителя",
+        "correct": false
+      }
+    },
+    "number": 116
+  },
+  {
+    "pl": "Jak często należy sprawdzać, czy prawidłowo działa chłodzenie silnika?",
+    "ru": "Как часто вы должны проверять, правильно ли работает охлаждение двигателя?",
+    "options": {
+      "A": {
+        "pl": "na początku sezonu",
+        "ru": "в начале сезона",
+        "correct": false
+      },
+      "B": {
+        "pl": "przy każdej wymianie oleju",
+        "ru": "при каждой замене масла",
+        "correct": false
+      },
+      "C": {
+        "pl": "każdorazowo, zaraz po uruchomieniu silnika",
+        "ru": "каждый раз, сразу после запуска двигателя",
+        "correct": true
+      }
+    },
+    "number": 117
+  },
+  {
+    "pl": "Tzw. zrywkę na silniku zaburtowym należy:",
+    "ru": "Так называемый рывок на подвесном двигателе должен:",
+    "options": {
+      "A": {
+        "pl": "przymocować do elementu jachtu solidnie zamocowanego do kadłuba",
+        "ru": "прикрепить к элементу яхты, прочно прикрепленному к корпусу",
+        "correct": false
+      },
+      "B": {
+        "pl": "pozostawić luźno zwisającą",
+        "ru": "оставьте свободно свисать",
+        "correct": false
+      },
+      "C": {
+        "pl": "założyć na nadgarstek lub inną część ciała sternika",
+        "ru": "надеть на запястье или другую часть тела рулевого",
+        "correct": true
+      }
+    },
+    "number": 118
+  },
+  {
+    "pl": "Przed wyłączeniem (odstawieniem) silnika należy:",
+    "ru": "Перед выключением (снятием) двигателя необходимо:",
+    "options": {
+      "A": {
+        "pl": "zakręcić dopływ paliwa do filtra",
+        "ru": "закрыть подачу топлива к фильтру",
+        "correct": false
+      },
+      "B": {
+        "pl": "przegazować i odstawić silnik na wysokich obrotach",
+        "ru": "перегазовать и поставить двигатель на высокие обороты",
+        "correct": false
+      },
+      "C": {
+        "pl": "zredukować obroty do minimalnych na biegu jałowym",
+        "ru": "уменьшить обороты до минимума на холостом ходу",
+        "correct": true
+      }
+    },
+    "number": 119
+  },
+  {
+    "pl": "Uzupełnianie paliwa podczas pracy silnika:",
+    "ru": "заправка топлива при работе двигателя:",
+    "options": {
+      "A": {
+        "pl": "jest dozwolone",
+        "ru": "допускается",
+        "correct": false
+      },
+      "B": {
+        "pl": "jest zabronione",
+        "ru": "запрещается",
+        "correct": true
+      },
+      "C": {
+        "pl": "jest dozwolone pod warunkiem pracy silnika na biegu jałowym",
+        "ru": "допускается при условии работы двигателя на холостом ходу",
+        "correct": false
+      }
+    },
+    "number": 120
+  },
+  {
+    "pl": "Wymiana wirnika pompy wodnej w silniku stacjonarnym:",
+    "ru": "Замена крыльчатки водяного насоса в стационарном двигателе:",
+    "options": {
+      "A": {
+        "pl": "jest czynnością, którą każdy prowadzący jednostkę pływającą powinien umieć wykonać samodzielnie",
+        "ru": "это действие, которое каждый, кто управляет плав средством, должен уметь выполнять самостоятельно",
+        "correct": true
+      },
+      "B": {
+        "pl": "jest skomplikowaną czynnością serwisową wykonywaną rzadko, jedynie przez wykwalifikowane serwisy i wymagającą wyjęcia jachtu z wody",
+        "ru": "сложная сервисная деятельность, выполняемая редко, только квалифицированными сервисами и требующая извлечения яхты из воды",
+        "correct": false
+      },
+      "C": {
+        "pl": "powinna być wykonywana przez serwis nie rzadziej niż raz na miesiąc",
+        "ru": "должно выполняться сервисом не реже одного раза в месяц",
+        "correct": false
+      }
+    },
+    "number": 121
+  },
+  {
+    "pl": "Przełączanie biegu od razu z naprzód\" na „wstecz\" jest:",
+    "ru": "Переключение передач сразу с \"вперед\" На \"назад\":",
+    "options": {
+      "A": {
+        "pl": "dozwolone,  lecz wiąże się z nieprzyjemnym dla ucha zgrzytem",
+        "ru": "разрешено, но связано с неприятным для уха скрежетом",
+        "correct": false
+      },
+      "B": {
+        "pl": "bezwzględnie zabronione - może prowadzić do poważnego uszkodzenia przekładni",
+        "ru": "строго запрещено-может привести к серьезному повреждению трансмиссии",
+        "correct": true
+      },
+      "C": {
+        "pl": "zalecane, gdyż zapewnia sprawne manewrowanie w porcie",
+        "ru": "рекомендуется, так как обеспечивает плавное маневрирование в порту",
+        "correct": false
+      }
+    },
+    "number": 122
+  },
+  {
+    "pl": "Paliwo dla silnika zaburtowego to:",
+    "ru": "Топливо для подвесного двигателя:",
+    "options": {
+      "A": {
+        "pl": "zawsze czysta etylina",
+        "ru": "всегда чистый бензин",
+        "correct": false
+      },
+      "B": {
+        "pl": "zawsze mieszanka etylina-olej",
+        "ru": "всегда смесь бензина с маслом",
+        "correct": false
+      },
+      "C": {
+        "pl": "czysta etylina lub mieszanka etylina-olej w zależności od typu silnika",
+        "ru": "чистый бензин или смесь бензина с маслом в зависимости от типа двигателя",
+        "correct": true
+      }
+    },
+    "number": 123
+  },
+  {
+    "pl": "Do sterowania obrotami silnika służy:",
+    "ru": "Для управления оборотами двигателя используется:",
+    "options": {
+      "A": {
+        "pl": "obrotomierz",
+        "ru": "тахометр",
+        "correct": false
+      },
+      "B": {
+        "pl": "wihajste C. anetka",
+        "ru": "переключатель передач",
+        "correct": true
+      },
+      "C": {
+        "pl": "",
+        "ru": "ручка газа IV. Wiadomości z zakresu ratownictwa IV. Сведения по спасению",
+        "correct": false
+      }
+    },
+    "number": 124
+  },
+  {
+    "pl": "Czy ratowanie życia ludzkiego na morzu jest płatne?",
+    "ru": "Cпасение жизни людей на море:",
+    "options": {
+      "A": {
+        "pl": "jest płatne, więc należy wykupić specjalne ubezpieczenie",
+        "ru": "оплачивается, поэтому необходимо приобрести специальную страховку",
+        "correct": false
+      },
+      "B": {
+        "pl": "jest bezpłatne",
+        "ru": "это бесплатно",
+        "correct": true
+      },
+      "C": {
+        "pl": "jest bezpłatne podobnie jak ratowanie jachtów",
+        "ru": "это бесплатно, как и спасение яхт",
+        "correct": false
+      }
+    },
+    "number": 125
+  },
+  {
+    "pl": "Ratownictwem morskim załóg jednostek pływających zajmuje się:",
+    "ru": "Морским спасением экипажей плавсредств занимается:",
+    "options": {
+      "A": {
+        "pl": "SAR",
+        "ru": "SАR",
+        "correct": true
+      },
+      "B": {
+        "pl": "WOPR",
+        "ru": "WOPR",
+        "correct": false
+      },
+      "C": {
+        "pl": "SAS",
+        "ru": "SAS",
+        "correct": false
+      }
+    },
+    "number": 126
+  },
+  {
+    "pl": "Po zauważeniu czerwonej rakiety spadochronowej należy:",
+    "ru": "При обнаружении Красной сигнальной ракеты необходимо:",
+    "options": {
+      "A": {
+        "pl": "szybko oddalić się jak najdalej od niebezpieczeństwa",
+        "ru": "быстро удалиться как можно дальше от опасности",
+        "correct": false
+      },
+      "B": {
+        "pl": "spróbować nawiązać kontakt, postarać się przekazać informację do stacji brzegowej, jeśli możemy to powinniśmy pospieszyć z pomocą, gdyż czyjeś życie jest zagrożone",
+        "ru": "попытаться установить контакт, попытаться передать информацию на береговую станцию, если мы можем, мы должны поспешить на помощь, потому что чья-то жизнь находится под угрозой",
+        "correct": true
+      },
+      "C": {
+        "pl": "odpowiedzieć na pozdrowienie również wystrzeliwując czerwoną rakietę spadochronową",
+        "ru": "ответить на приветствие, также запустив красную сигнальную ракету",
+        "correct": false
+      }
+    },
+    "number": 127
+  },
+  {
+    "pl": "Rakiety wyrzucające czerwone gwiazdki, wystrzeliwane w krótkich odstępach czasu oznaczają:",
+    "ru": "Ракеты, стреляющие красными вспышками, запускаемые в быстрой последовательности, означают:",
+    "options": {
+      "A": {
+        "pl": "sygnał wzywania pomocy",
+        "ru": "сигнал бедствия",
+        "correct": true
+      },
+      "B": {
+        "pl": "urodziny kapitana",
+        "ru": "день рождения капитана",
+        "correct": false
+      },
+      "C": {
+        "pl": "sygnał nie zbliżać się\"",
+        "ru": "сигнал “не приближаться\"",
+        "correct": false
+      }
+    },
+    "number": 128
+  },
+  {
+    "pl": "Na jachcie morskim należy stosować:",
+    "ru": "На морской яхте следует использовать:",
+    "options": {
+      "A": {
+        "pl": "kamizelki asekuracyjne, gdyż są wygodne i nie krępują ruchów",
+        "ru": "страховочные жилеты, так как они удобны и не стесняют движений",
+        "correct": false
+      },
+      "B": {
+        "pl": "wyłącznie kamizelki ratunkowe w kolorze pomarańczowym z atestem SOLAS",
+        "ru": "только спасательные жилеты оранжевого цвета с сертификатом SOLAS",
+        "correct": false
+      },
+      "C": {
+        "pl": "kamizelki ratunkowe, również pneumatyczne zintegrowane z pasami asekuracyjnymi, gdyż w odróżnieniu od kamizelek asekuracyjnych zapewniają odwrócenie człowieka twarzą do góry z ustami ponad wodą",
+        "ru": "",
+        "correct": true
+      }
+    },
+    "number": 129
+  },
+  {
+    "pl": "Człowiek stojący na jachcie i zataczający kręgi dowolnym przedmiotem lub podnoszący powoli do góry i opuszczający wyprostowane ręce to:",
+    "ru": "Человек, стоящий на яхте и сигнализирующий круговыми движениями любыми предметами, медленно поднимающийся вверх и опускающий руки вниз:",
+    "options": {
+      "A": {
+        "pl": "osoba, która się dobrze bawi",
+        "ru": "человек, который развлекается",
+        "correct": false
+      },
+      "B": {
+        "pl": "osoba, która wzywa pomocy",
+        "ru": "человек, который обращается за помощью",
+        "correct": true
+      },
+      "C": {
+        "pl": "osoba przekazująca informację: „nie zbliżajcie się do nas\"",
+        "ru": "лицо, передающее информацию: \"не приближайтесь к нам\"",
+        "correct": false
+      }
+    },
+    "number": 130
+  },
+  {
+    "pl": "Aby wezwać pomoc, należy:",
+    "ru": "Чтобы позвать на помощь, необходимо:",
+    "options": {
+      "A": {
+        "pl": "używać wszelkich dostępnych środków - zależnie od akwenu, odległości od brzegu oraz wyposażenia jednostki",
+        "ru": "использовать все доступные средства в зависимости от водоема, расстояния от берега и оборудования судна",
+        "correct": true
+      },
+      "B": {
+        "pl": "stosować się ściśle do przepisów lokalnych w zakresie organizacji służb ratowniczych",
+        "ru": "строго соблюдать местные правила в отношении аварийных служб",
+        "correct": false
+      },
+      "C": {
+        "pl": "postępować zgodnie z konwencją MARPOL",
+        "ru": "следовать соглашению MARPOL",
+        "correct": false
+      }
+    },
+    "number": 131
+  },
+  {
+    "pl": "Uruchamianie pirotechnicznych środków sygnalizacyjnych powinno być przeprowadzane:",
+    "ru": "Запуск пиротехнических сигнальных средств должен осуществляться:",
+    "options": {
+      "A": {
+        "pl": "na dowolnej burcie statku",
+        "ru": "на любом борту судна",
+        "correct": false
+      },
+      "B": {
+        "pl": "wyłącznie na burcie zawietrznej statku",
+        "ru": "только на подветренном борту судна",
+        "correct": true
+      },
+      "C": {
+        "pl": "wyłącznie na burcie nawietrznej statku",
+        "ru": "только на наветренном борту судна",
+        "correct": false
+      }
+    },
+    "number": 132
+  },
+  {
+    "pl": "Na jachcie śródlądowym do 12 m długości z 6-osobową załogą:",
+    "ru": "При хождении на яхтах во внутренних водах длиной до 12 м с экипажем из 6 человек:",
+    "options": {
+      "A": {
+        "pl": "wystarczy 5 kamizelek ratunkowych lub asekuracyjnych",
+        "ru": "достаточно 5 спасательных или страховочных жилетов",
+        "correct": false
+      },
+      "B": {
+        "pl": "powinno być 1 koło ratunkowe i 6 kamizelek ratunkowych",
+        "ru": "должно быть 1 спасательный круг и 6 спасательных жилетов",
+        "correct": true
+      },
+      "C": {
+        "pl": "wystarczą 3 kola ratunkowe, kamizelki są wtedy zbędne",
+        "ru": "достаточно 3 спасательных круга, тогда жилеты лишние",
+        "correct": false
+      }
+    },
+    "number": 133
+  },
+  {
+    "pl": "Obowiązkowe wyposażenie każdego jachtu o długości ponad 3,5 m napędzanego silnikiem spalinowym to:",
+    "ru": "Обязательным оснащением любой яхты длиной более 3,5 м, приводимой в движение двигателем внутреннего сгорания, является:",
+    "options": {
+      "A": {
+        "pl": "środki ratunkowe, apteczka, gaśnica",
+        "ru": "спасательные средства, аптечка первой помощи, огнетушитель",
+        "correct": true
+      },
+      "B": {
+        "pl": "środki ratunkowe, apteczka",
+        "ru": "спасательные средства, аптечка",
+        "correct": false
+      },
+      "C": {
+        "pl": "środki ratunkowe, gaśnica",
+        "ru": "спасательные средства, огнетушитель",
+        "correct": false
+      }
+    },
+    "number": 134
+  },
+  {
+    "pl": "Na jeden cykl przy resuscytacji krążeniowo-oddechowej składa się:",
+    "ru": "Один цикл сердечно-легочной реанимации состоит из:",
+    "options": {
+      "A": {
+        "pl": "10 ucisków z częstotliwością ok. 60 na min. 3 wdmuchnięcia",
+        "ru": "10 компрессий с частотой около 60 в мин. 3 вдоха воздуха",
+        "correct": false
+      },
+      "B": {
+        "pl": "30 ucisków z częstotliwością ok. 100 na min. 2 wdmuchnięcia",
+        "ru": "30 компрессий с частотой около 100 в мин. 2 вдоха воздуха",
+        "correct": true
+      },
+      "C": {
+        "pl": "20 ucisków z częstotliwością ok. 100 na min. 2 wdmuchnięcia",
+        "ru": "20 компрессий с частотой около 100 в мин. 2 вдоха воздуха",
+        "correct": false
+      }
+    },
+    "number": 135
+  },
+  {
+    "pl": "Wyporność typowej kamizelki ratunkowej dla osoby dorosłej wynosi?",
+    "ru": "Плавучесть типичного спасательного жилета для взрослого составляет?",
+    "options": {
+      "A": {
+        "pl": "200-300 N",
+        "ru": "200-300 Н",
+        "correct": false
+      },
+      "B": {
+        "pl": "100-150 N",
+        "ru": "100-150 N",
+        "correct": true
+      },
+      "C": {
+        "pl": "300-400 N",
+        "ru": "300-400 N",
+        "correct": false
+      }
+    },
+    "number": 136
+  },
+  {
+    "pl": "Pierwszą czynnością, którą robi kapitan po wywrotce jachtu, jest:",
+    "ru": "Первое действие, которое делает капитан после опрокидывания яхты, - это:",
+    "options": {
+      "A": {
+        "pl": "przeliczenie załogi i założenie pasów ratunkowych",
+        "ru": "пересчет экипажа и установка спасательных поясов",
+        "correct": true
+      },
+      "B": {
+        "pl": "zabezpieczenie sprzętu",
+        "ru": "защита оборудования",
+        "correct": false
+      },
+      "C": {
+        "pl": "płynięcie wpław do brzegu",
+        "ru": "плавание вплавь к берегу",
+        "correct": false
+      }
+    },
+    "number": 137
+  },
+  {
+    "pl": "W przypadku stwierdzenia przybywania wody w kadłubie jachtu morskiego                                                                                   należy:",
+    "ru": "При обнаружении поступления воды в Корпус морской яхты необходимо:",
+    "options": {
+      "A": {
+        "pl": "sprawdzić, czy jest to woda morska, czy słodka, następnie działać odpowiednio do sytuacji",
+        "ru": "проверить, является ли это морской или пресной водой, затем действовать в соответствии с ситуацией",
+        "correct": true
+      },
+      "B": {
+        "pl": "niezwłocznie wezwać służby ratownicze",
+        "ru": "немедленно вызвать спасательные службы С. подготовить экипажа к эвакуации",
+        "correct": false
+      },
+      "C": {
+        "pl": "przygotować załogę do ewakuacji",
+        "ru": "",
+        "correct": false
+      }
+    },
+    "number": 138
+  },
+  {
+    "pl": "Po podjęciu człowieka z wody:",
+    "ru": "После взятия человека из воды:",
+    "options": {
+      "A": {
+        "pl": "należy mu podać 50g alkoholu aby się rozgrzał, dać suche ubrania do przebrania",
+        "ru": "ему нужно дать 50 г спирта, чтобы согреться, дать сухую одежду для переодевания",
+        "correct": false
+      },
+      "B": {
+        "pl": "nie wolno mu podawać alkoholu - należy podać ciepłą herbatę i suche ubrania",
+        "ru": "ему нельзя давать алкоголь-нужно давать теплый чай и сухую одежду",
+        "correct": true
+      },
+      "C": {
+        "pl": "należy podać mu środki uspokajające",
+        "ru": "ему следует дать успокоительные",
+        "correct": false
+      }
+    },
+    "number": 139
+  },
+  {
+    "pl": "Podczas holowania jachtu przez inną jednostkę, o prędkości zestawu decyduje:",
+    "ru": "При буксировке яхты другим агрегатом скорость установки определяется:",
+    "options": {
+      "A": {
+        "pl": "kapitan jednostki holującej",
+        "ru": "капитаном буксирующего судна",
+        "correct": false
+      },
+      "B": {
+        "pl": "kapitan jednostki holowanej",
+        "ru": "капитаном буксируемого судна",
+        "correct": true
+      },
+      "C": {
+        "pl": "zapis w przepisach lokalnych",
+        "ru": "требованиями местного законодательства",
+        "correct": false
+      }
+    },
+    "number": 140
+  },
+  {
+    "pl": "Mając do czynienia z osobą nieprzytomną należy:",
+    "ru": "Имея дело с бессознательным человеком, необходимо:",
+    "options": {
+      "A": {
+        "pl": "najpierw sprawdzić oddech",
+        "ru": "сначала проверить дыхание",
+        "correct": true
+      },
+      "B": {
+        "pl": "niezwłocznie rozpocząć sztuczne oddychanie",
+        "ru": "немедленно начать искусственное дыхание",
+        "correct": false
+      },
+      "C": {
+        "pl": "jak najszybciej zasięgnąć porady lekarza i działać dokładnie wg jego instrukcji",
+        "ru": "как можно скорее обратиться к врачу и действовать точно в соответствии с его инструкциями",
+        "correct": false
+      }
+    },
+    "number": 141
+  },
+  {
+    "pl": "Udrażnianie dróg oddechowych polega na:",
+    "ru": "Очистка дыхательных путей заключается в том чтобы:",
+    "options": {
+      "A": {
+        "pl": "odchyleniu głowy do tyłu i uniesieniu żuchwy do góry",
+        "ru": "наклонить голову назад и поднять нижнюю челюсть вверх",
+        "correct": true
+      },
+      "B": {
+        "pl": "ułożeniu ratowanego w pozycji bocznej ustalonej",
+        "ru": "положить спасаемого на бок",
+        "correct": false
+      },
+      "C": {
+        "pl": "podaniu środka znieczulającego",
+        "ru": "ввести анестетики",
+        "correct": false
+      }
+    },
+    "number": 142
+  },
+  {
+    "pl": "W przypadku zauważenia omdlenia należy:",
+    "ru": "При обнаружении обморока следует:",
+    "options": {
+      "A": {
+        "pl": "rozpocząć masaż serca",
+        "ru": "начать массаж сердца",
+        "correct": false
+      },
+      "B": {
+        "pl": "ułożyć w pozycji bocznej ustalonej i dostarczyć świeżego powietrza",
+        "ru": "положить в фиксированное боковое положение и подать свежий воздух",
+        "correct": true
+      },
+      "C": {
+        "pl": "użyć defibrylatora",
+        "ru": "использовать дефибриллятор",
+        "correct": false
+      }
+    },
+    "number": 143
+  },
+  {
+    "pl": "Defibrylator służy do:",
+    "ru": "Дефибриллятор используется для:",
+    "options": {
+      "A": {
+        "pl": "gaszenia pożaru w przedziale silnikowym",
+        "ru": "пожаротушение в моторном отсеке",
+        "correct": false
+      },
+      "B": {
+        "pl": "odkażania ran",
+        "ru": "обеззараживание ран",
+        "correct": false
+      },
+      "C": {
+        "pl": "C. przywracania prawidłowej akcji serca",
+        "ru": "восстановления нормального сердечного ритма $",
+        "correct": true
+      }
+    },
+    "number": 144
+  },
+  {
+    "pl": "Użycie automatycznego defibrylatora jest:",
+    "ru": "Использование автоматического дефибриллятора:",
+    "options": {
+      "A": {
+        "pl": "skomplikowane i wymaga fachowego przeszkolenia",
+        "ru": "сложный процесс и требует профессиональной подготовки",
+        "correct": false
+      },
+      "B": {
+        "pl": "proste i możliwe do wykonania dla każdego - należy postępować zgodnie z instrukcjami głosowymi i piktogramami",
+        "ru": "просто и выполнимо для всех - следуйте голосовым инструкциям и пиктограммам",
+        "correct": true
+      },
+      "C": {
+        "pl": "dopuszczalne wyłącznie dla osób o wykształceniu medycznym",
+        "ru": "допускается только для лиц с медицинским образованием",
+        "correct": false
+      }
+    },
+    "number": 145
+  },
+  {
+    "pl": "W przypadku poparzenia skóry należy:",
+    "ru": "При ожоге кожи необходимо:",
+    "options": {
+      "A": {
+        "pl": "miejsce oparzone zdezynfekować spirytusem lub wodą utlenioną",
+        "ru": "продезинфицировать обожженное место спиртом или перекисью водорода",
+        "correct": false
+      },
+      "B": {
+        "pl": "miejsce poparzone schłodzić wodą i zabezpieczyć jałowym kompresem. a następnie jak najszybciej dotrzeć do lekarza",
+        "ru": "обожженное место охладить водой и защитить стерильным компрессом, а затем как можно скорее обратиться к врачу",
+        "correct": true
+      },
+      "C": {
+        "pl": "nic nie robić samemu, jak najszybciej dotrzeć do lekarza",
+        "ru": "ничего не делать самостоятельно, как можно скорее обратиться к врачу",
+        "correct": false
+      }
+    },
+    "number": 146
+  },
+  {
+    "pl": "Przy zranieniach z obfitym upływem krwi należy:",
+    "ru": "При ранениях с обильным кровотоком необходимо:",
+    "options": {
+      "A": {
+        "pl": "zatamować wyciek krwi bezpośrednio na ranie",
+        "ru": "протереть кровь прямо на ране",
+        "correct": true
+      },
+      "B": {
+        "pl": "przykleić plaster",
+        "ru": "приклеить пластырь",
+        "correct": false
+      },
+      "C": {
+        "pl": "podać środki rozkurczowe",
+        "ru": "дать диастолические средства",
+        "correct": false
+      }
+    },
+    "number": 147
+  },
+  {
+    "pl": "Krwawienie tętnicze charakteryzuje się:",
+    "ru": "Артериальное кровотечение характеризуется:",
+    "options": {
+      "A": {
+        "pl": "intensywnym wypływaniem jasnej krwi",
+        "ru": "интенсивным выделением светлой крови",
+        "correct": true
+      },
+      "B": {
+        "pl": "powolnym wypływaniem ciemnej krwi",
+        "ru": "медленным вытеканием темной крови",
+        "correct": false
+      },
+      "C": {
+        "pl": "przedostawaniem się krwi do wnętrza ciała",
+        "ru": "попаданием крови внутрь тела",
+        "correct": false
+      }
+    },
+    "number": 148
+  },
+  {
+    "pl": "Krwawienie żylne charakteryzuje się:",
+    "ru": "Венозное кровотечение характеризуется:",
+    "options": {
+      "A": {
+        "pl": "intensywnym wypływaniem jasnej krwi",
+        "ru": "интенсивным выделением светлой крови",
+        "correct": false
+      },
+      "B": {
+        "pl": "powolnym wypływaniem ciemnej krwi",
+        "ru": "медленным вытеканием темной крови",
+        "correct": true
+      },
+      "C": {
+        "pl": "przedostawaniem się krwi do wnętrza ciała",
+        "ru": "попаданием крови внутрь тела",
+        "correct": false
+      }
+    },
+    "number": 149
+  },
+  {
+    "pl": "Krwotok wewnętrzny charakteryzuje się:",
+    "ru": "Внутреннее кровоизлияние характеризуется:",
+    "options": {
+      "A": {
+        "pl": "intensywnym wypływaniem jasnej krwi",
+        "ru": "интенсивным выделением светлой крови",
+        "correct": false
+      },
+      "B": {
+        "pl": "powolnym wypływaniem ciemnej krwi",
+        "ru": "медленным вытеканием темной крови",
+        "correct": false
+      },
+      "C": {
+        "pl": "C. przedostawaniem się krwi do wnętrza ciała",
+        "ru": "попаданием крови внутрь тела",
+        "correct": true
+      }
+    },
+    "number": 150
+  },
+  {
+    "pl": "Przy poparzeniu kwasem akumulatorowym należy:",
+    "ru": "При ожоге аккумуляторной кислотой необходимо:",
+    "options": {
+      "A": {
+        "pl": "wytrzeć, a następnie zmyć miejsce poparzone dużą ilością wody, założyć jałowy opatrunek",
+        "ru": "протереть, а затем промыть место, обожженное большим количеством воды, надеть стерильную повязку",
+        "correct": true
+      },
+      "B": {
+        "pl": "niezwłocznie zawinąć poparzenie bandażem",
+        "ru": "немедленно обернуть ожог повязкой",
+        "correct": false
+      },
+      "C": {
+        "pl": "podać środki uspokajające",
+        "ru": "дать успокоительные",
+        "correct": false
+      }
+    },
+    "number": 151
+  },
+  {
+    "pl": "Apteczka jachtowa  powinna  zawierać:",
+    "ru": "Аптечка яхты должна содержать:",
+    "options": {
+      "A": {
+        "pl": "środki opatrunkowe, środki dezynfekcyjne oraz inne w przypadku dłuższych rejsów",
+        "ru": "перевязочные, дезинфицирующие и другие средства для длительных круизов",
+        "correct": true
+      },
+      "B": {
+        "pl": "wyłącznie środki przeciwko chorobie morskiej",
+        "ru": "только меры против морской болезни",
+        "correct": false
+      },
+      "C": {
+        "pl": "lekarstwa homeopatyczne",
+        "ru": "гомеопатические лекарства",
+        "correct": false
+      }
+    },
+    "number": 152
+  },
+  {
+    "pl": "W przypadku odcięcia lub urwania palca należy:",
+    "ru": "Если палец отрезан или оторван, необходимо:",
+    "options": {
+      "A": {
+        "pl": "pozbyć się urwanej części, ranę zdezynfekować i zabezpieczyć, udać się jak najszybciej  do  lekarza",
+        "ru": "избавиться от оторванной части, продезинфицировать и защить рану, обратиться к врачу как можно скорее",
+        "correct": false
+      },
+      "B": {
+        "pl": "zabezpieczyć w niskiej temperaturze urwaną część, ranę zabezpieczyć, udać się jak najszybciej do lekarza, gdyż jest szansa na przyszycie palca",
+        "ru": "обезопасить при низкой температуре оторванную часть, защитить рану, как можно скорее обратиться к врачу, так как есть шанс пришить палец",
+        "correct": true
+      },
+      "C": {
+        "pl": "udać się jak najszybciej do lekarza, samodzielnie nie podejmować żadnych działań",
+        "ru": "как можно скорее обратиться к врачу, самостоятельно не предпринимать никаких действий",
+        "correct": false
+      }
+    },
+    "number": 153
+  },
+  {
+    "pl": "W przypadku urazu kończyny z prawdopodobnym złamaniem należy:",
+    "ru": "В случае травмы конечности с вероятным переломом необходимо:",
+    "options": {
+      "A": {
+        "pl": "wyłącznie zdezynfekować miejsce urazu",
+        "ru": "только продезинфицировать место травмы",
+        "correct": false
+      },
+      "B": {
+        "pl": "usztywnić dwa sąsiednie stawy",
+        "ru": "укрепить два соседних сустава",
+        "correct": true
+      },
+      "C": {
+        "pl": "wyłącznie wezwać pomoc medyczną",
+        "ru": "только обратиться за медицинской помощью",
+        "correct": false
+      }
+    },
+    "number": 154
+  },
+  {
+    "pl": "Czas od wpadnięcia do wody do momentu wystąpienia hipotermii jest zależny:",
+    "ru": "Время от падения в воду до начала переохлаждения зависит:",
+    "options": {
+      "A": {
+        "pl": "wyłącznie  od  temperatury  wody",
+        "ru": "исключительно от температуры воды",
+        "correct": false
+      },
+      "B": {
+        "pl": "od temperatury wody, rodzaju ubrania i kondycji fizycznej wpadającego",
+        "ru": "от температуры воды, типа одежды и физического состояния падающего",
+        "correct": true
+      },
+      "C": {
+        "pl": "wyłącznie od wieku wpadającego",
+        "ru": "исключительно от возраста",
+        "correct": false
+      }
+    },
+    "number": 155
+  },
+  {
+    "pl": "Po podjęciu na pokład osoby z objawami hipotermii należy niezwłocznie",
+    "ru": "После того, как люди с симптомами переохлаждения будут приняты на борт, следует немедленно",
+    "options": {
+      "A": {
+        "pl": "zapewnić suche ubrania, podać coś ciepłego do picia i zapewnić możliwość rozgrzania",
+        "ru": "обеспечить сухую одежду, дать что-нибудь теплое для питья и обеспечить возможность согреться",
+        "correct": true
+      },
+      "B": {
+        "pl": "zapewnić suche ubrania, podać rozgrzewającą herbatę z alkoholem",
+        "ru": "обеспечить сухую одежду, дать согревающий чай с алкоголем",
+        "correct": false
+      },
+      "C": {
+        "pl": "przeprowadzić wywiad z rozbitkiem",
+        "ru": "взять интервью у потерпевшего кораблекрушение",
+        "correct": false
+      }
+    },
+    "number": 156
+  },
+  {
+    "pl": "Hipotermia jest to zjawisko:",
+    "ru": "Переохлаждение это явление:",
+    "options": {
+      "A": {
+        "pl": "polegające na przechłodzeniu organizmu",
+        "ru": "переохлаждения организма",
+        "correct": true
+      },
+      "B": {
+        "pl": "atmosferyczne związane z przechodzeniem frontu chłodnego",
+        "ru": "атмосферное, связанное с прохождением холодного фронта",
+        "correct": false
+      },
+      "C": {
+        "pl": "związane z urazem ciśnieniowym organizmu",
+        "ru": "связанное с травмой давления тела",
+        "correct": false
+      }
+    },
+    "number": 157
+  },
+  {
+    "pl": "Średni czas przeżycia człowieka w wodzie o temperaturze 10°C wynosi:",
+    "ru": "Среднее время выживания человека в воде с температурой 10°C составляет:",
+    "options": {
+      "A": {
+        "pl": "ponad 3 godziny",
+        "ru": "более 3 часов",
+        "correct": false
+      },
+      "B": {
+        "pl": "około 2 godzin",
+        "ru": "около 2 часов",
+        "correct": true
+      },
+      "C": {
+        "pl": "około 6 godzin",
+        "ru": "около 6 часов",
+        "correct": false
+      }
+    },
+    "number": 158
+  },
+  {
+    "pl": "Pozycja, HELP  to:",
+    "ru": "Позиция, HELP это:",
+    "options": {
+      "A": {
+        "pl": "ułożenie ciała rozbitka w wodzie w pozycji embrionalnej, z kończynami przy tułowiu",
+        "ru": "положение тела потерпевшего кораблекрушение в воде в позе эмбриона с конечностями у туловища",
+        "correct": true
+      },
+      "B": {
+        "pl": "pozycja rozbitka przyjmowana podczas ewakuacji do helikoptera",
+        "ru": "положение потерпевшего кораблекрушение, принятое во время эвакуации на вертолет",
+        "correct": false
+      },
+      "C": {
+        "pl": "pozycja rozbitków, która ułatwi zauważenie i uratowanie przez samoloty SAR",
+        "ru": "положение потерпевших кораблекрушение, которое облегчит обнаружение и спасение самолетами SAR",
+        "correct": false
+      }
+    },
+    "number": 159
+  },
+  {
+    "pl": "Jakie zachowanie grupy rozbitków gwarantuje najdłuższe przeżycie w wodzie?",
+    "ru": "Какое поведение группы выживших гарантирует самое длительное выживание в воде?",
+    "options": {
+      "A": {
+        "pl": "przyjęcie pozycji embrionalnej przez każdego z rozbitków",
+        "ru": "принятие эмбрионального положения каждым выжившим",
+        "correct": false
+      },
+      "B": {
+        "pl": "przyjęcie  pozycji  bocznej  ustalonej  przez  każdego  z  rozbitków",
+        "ru": "принятие бокового положения, установленного каждым из потерпевших кораблекрушение",
+        "correct": false
+      },
+      "C": {
+        "pl": "przyjęcie pozycji “CLINCH\" (kilka osób ciasno objętych) przez grupę rozbitków",
+        "ru": "принятие позиции “CLINCH\" (несколько человек плотно охвачены) группой потерпевших кораблекрушение",
+        "correct": true
+      }
+    },
+    "number": 160
+  },
+  {
+    "pl": "Co to są sztormliny?",
+    "ru": "Что такое штормовые ремни?",
+    "options": {
+      "A": {
+        "pl": "liny do holowania małych statków podczas sztormu",
+        "ru": "канаты для буксировки небольших судов во время шторма",
+        "correct": false
+      },
+      "B": {
+        "pl": "liny zabezpieczające osprzęt pokładowy przed zmyciem za burtę podczas sztormu",
+        "ru": "тросы для защиты бортового оборудования от смывания за борт во время шторма",
+        "correct": false
+      },
+      "C": {
+        "pl": "liny biegnące wzdłuż kadłuba, przygotowane do wpięcia pasów bezpieczeństwa, co zapobiega wypadnięciu za burtę załogi podczas pracy na pokładzie podczas sztormu",
+        "ru": "тросы, идущие вдоль корпуса, подготовленные для пристегивания ремней безопасности, что предотвращает падение экипажа за борт при работе на палубе во время шторма",
+        "correct": true
+      }
+    },
+    "number": 161
+  },
+  {
+    "pl": "Co należy zrobić zaraz po wypadnięciu człowieka za burtę?",
+    "ru": "Что делать сразу после того, как человек упал за борт?",
+    "options": {
+      "A": {
+        "pl": "ogłosić alarm, rzucić koło ratunkowe i wykonać manewr.człowiek za burtą",
+        "ru": "объявить тревогу, бросить спасательный круг и выполнить маневр человек за бортом",
+        "correct": true
+      },
+      "B": {
+        "pl": "niezwłocznie wezwać pomocy",
+        "ru": "немедленно вызвать помощь",
+        "correct": false
+      },
+      "C": {
+        "pl": "skoczyć za ním z kamizelką ratunkową",
+        "ru": "прыгнуть за ним с спасательным жилетом",
+        "correct": false
+      }
+    },
+    "number": 162
+  },
+  {
+    "pl": "Statki ratownicze SAR mają za zadanie:",
+    "ru": "Спасательные суда SAR имеют задачу:",
+    "options": {
+      "A": {
+        "pl": "podjąć osoby znajdujące się na statku ratowanym i jeśli warunki pozwalają, to holować  statek  do  portu",
+        "ru": "взять людей, находящихся на спасаемом корабле, и, если позволяют условия, буксировать судно в порт",
+        "correct": false
+      },
+      "B": {
+        "pl": "podjąć osoby znajdujące się na statku ratowanym i nie wolno im holować statku",
+        "ru": "принимать лиц, находящихся на спасаемом судне, и им не разрешается буксировать судно",
+        "correct": true
+      },
+      "C": {
+        "pl": "holować statek ratowany do portu wraz ze wszystkimi osobami na pokładzie",
+        "ru": "буксировать спасаемое судно в порт вместе со всеми на борту",
+        "correct": false
+      }
+    },
+    "number": 163
+  },
+  {
+    "pl": "Na rejsie morskim ćwiczebny alarm człowiek za burtą\" powinien być przeprowadzony:",
+    "ru": "В морском круизе учение о тревоге человек за бортом \" должен быть проведен:",
+    "options": {
+      "A": {
+        "pl": "niezwłocznie po wyjściu z portu",
+        "ru": "сразу после выхода из порта",
+        "correct": false
+      },
+      "B": {
+        "pl": "nie później niż na 24 godziny od wyjścia z portu",
+        "ru": "не позднее чем через 24 часа после выхода из порта",
+        "correct": true
+      },
+      "C": {
+        "pl": "niezwłocznie po zaokrętowaniu",
+        "ru": "сразу после посадки",
+        "correct": false
+      }
+    },
+    "number": 164
+  },
+  {
+    "pl": "Manewry portowe należy wykonywać:",
+    "ru": "Маневры в марине (бухте) должны быть выполнены:",
+    "options": {
+      "A": {
+        "pl": "z minimalną prędkością zapewniającą manewrowość",
+        "ru": "с минимальной скоростью для маневренности",
+        "correct": true
+      },
+      "B": {
+        "pl": "z prędkością nie większą niż 2 węzły",
+        "ru": "со скоростью не более 2 узлов",
+        "correct": false
+      },
+      "C": {
+        "pl": "z prędkością nie mniejszą niż 2 węzły",
+        "ru": "со скоростью не менее 2 узлов",
+        "correct": false
+      }
+    },
+    "number": 165
+  },
+  {
+    "pl": "Morska łączność radiowa rozpoczynająca się od „MAYDAY, MAYDAY, MAYDAY\" to:",
+    "ru": "Морская радиосвязь, начинающаяся с \"MAYDAY, MAYDAY, MAYDAY\":",
+    "options": {
+      "A": {
+        "pl": "łączność pilna, gdy nie ma bezpośredniego zagrożenia życia ludzkiego (np. transport  medyczny, porada medyczna, wezwanie asysty holownika)",
+        "ru": "срочная связь, когда нет непосредственной угрозы жизни человека (например, медицинский транспорт, медицинская консультация, вызов помощи буксира)",
+        "correct": false
+      },
+      "B": {
+        "pl": "sygnał wzywania pomocy",
+        "ru": "сигнал бедствия",
+        "correct": true
+      },
+      "C": {
+        "pl": "ostrzeżenie sztormowe",
+        "ru": "штормовое предупреждение",
+        "correct": false
+      }
+    },
+    "number": 166
+  },
+  {
+    "pl": "Na morzu łączność radiowa rozpoczynająca się od SECURITE, SECURITE, SECURITE\" to:",
+    "ru": "В море радиосвязь, начинающаяся с SECURITE, SECURITE, SECURITE\":",
+    "options": {
+      "A": {
+        "pl": "łączność pilna (Urgency), gdy nie ma bezpośredniego zagrożenia życia ludzkiego (np. transport medyczny, porada medyczna, wezwanie asysty holownika)",
+        "ru": "срочная связь (Urgency), когда нет непосредственной угрозы жизни человека (например, медицинский транспорт, медицинская консультация, вызов помощи буксира)",
+        "correct": false
+      },
+      "B": {
+        "pl": "łączność dla zapewnienia bezpieczeństwa (Safety), np. ostrzeżenie o zauważonym niebezpieczeństwie, ostrzeżenia nawigacyjne, ostrzeżenia sztormowe",
+        "ru": "подключение для обеспечения безопасности (Safety), например, предупреждение об обнаруженной опасности, навигационные предупреждения, штормовые предупреждения $",
+        "correct": true
+      },
+      "C": {
+        "pl": "sygnał wzywania pomocy",
+        "ru": "сигнал бедствия",
+        "correct": false
+      }
+    },
+    "number": 167
+  },
+  {
+    "pl": "Na morzu łączność radiowa rozpoczynająca się od „PAN-PAN, PAN-PAN, PAN-  PAN\" to:",
+    "ru": "В море радиосвязь, начинающаяся с \"Пан-Пан, Пан-Пан, Пан - Пан\", - это:",
+    "options": {
+      "A": {
+        "pl": "łączność pilna (Urgency), gdy nie ma bezpośredniego zagrożenia życia ludzkiego (np. transport medyczny, porada medyczna, wezwanie asysty holownika)",
+        "ru": "срочная связь (Urgency), когда нет непосредственной угрозы жизни человека (например, медицинский транспорт, медицинская консультация, вызов помощи буксира)",
+        "correct": true
+      },
+      "B": {
+        "pl": "sygnał wzywania pomocy",
+        "ru": "сигнал бедствия",
+        "correct": false
+      },
+      "C": {
+        "pl": "ostrzeżenie sztormowe",
+        "ru": "штормовое предупреждение",
+        "correct": false
+      }
+    },
+    "number": 168
+  },
+  {
+    "pl": "Gaśnicą pianową nie wolno gasić:",
+    "ru": "Пенным огнетушителем нельзя тушить:",
+    "options": {
+      "A": {
+        "pl": "urządzeń elektrycznych",
+        "ru": "электрические приборы",
+        "correct": true
+      },
+      "B": {
+        "pl": "otwartego ognia",
+        "ru": "открытый огонь",
+        "correct": false
+      },
+      "C": {
+        "pl": "elementów drewnianych",
+        "ru": "деревянные элементы",
+        "correct": false
+      }
+    },
+    "number": 169
+  },
+  {
+    "pl": "Gaśnica proszkowa służy do gaszenia:",
+    "ru": "Порошковый огнетушитель используется для тушения:",
+    "options": {
+      "A": {
+        "pl": "urządzeń elektrycznych i urządzeń w przedziale silnikowym",
+        "ru": "электрооборудования и оборудования в моторном отсеке",
+        "correct": true
+      },
+      "B": {
+        "pl": "wyłącznie pożarów na otwartych pokładach",
+        "ru": "только пожаров на открытых палубах",
+        "correct": false
+      },
+      "C": {
+        "pl": "wyłącznie płonących paliw",
+        "ru": "только горящего топлива",
+        "correct": false
+      }
+    },
+    "number": 170
+  },
+  {
+    "pl": "Prawidłowy sposób użycia gaśnicy proszkowej to:",
+    "ru": "Правильный способ использования порошкового огнетушителя:",
+    "options": {
+      "A": {
+        "pl": "wstrząsnąć, odwrócić gaśnicę tak, aby głowica była na dole i nacisnąć spust",
+        "ru": "встряхнуть, перевернуть огнетушитель так, чтобы головка была внизу, и нажать на спусковой крючок",
+        "correct": false
+      },
+      "B": {
+        "pl": "wstrząsanie nie jest konieczne, należy gaśnicę odwrócić głowicą do dołu i nacisnąć  spust",
+        "ru": "встряхивать не требуется, огнетушитель следует перевернуть головой вниз и нажать на спусковой крючок",
+        "correct": false
+      },
+      "C": {
+        "pl": "wstrząsnąć, trzymać gaśnicę głowicą do góry, nacisnąć na chwilę spust, zwolnić, a następnie nacisnąć spust ponownie",
+        "ru": "встряхнуть, удерживать головку огнетушителя вверх, нажав на курок на мгновение, отпустив, а затем снова нажав на курок $",
+        "correct": true
+      }
+    },
+    "number": 171
+  },
+  {
+    "pl": "Po zauważeniu požaru na statku w ruchu należy:",
+    "ru": "Заметив пожар на корабле в движении, следует:",
+    "options": {
+      "A": {
+        "pl": "ustawić się na takim kursie, żeby wiatr nie rozprzestrzeniał pożaru na Inne części statku",
+        "ru": "установить такой курс, чтобы ветер не распространял огонь на другие части корабля",
+        "correct": true
+      },
+      "B": {
+        "pl": "z maksymalną prędkością płynąć do portu",
+        "ru": "на максимальной скорости плыть в порт",
+        "correct": false
+      },
+      "C": {
+        "pl": "niezwłocznie opuścić jednostkę",
+        "ru": "немедленно покинуть судно",
+        "correct": false
+      }
+    },
+    "number": 172
+  },
+  {
+    "pl": "Doprowadzenie do celowego i kontrolowanego osadzenia jednostki na piaszczystym brzegu, płytkiej wodzie lub na mieliźnie nazywamy:",
+    "ru": "Приведение к преднамеренной и контролируемой посадке судна на песчаный берег, мелководье или на мель называется:",
+    "options": {
+      "A": {
+        "pl": "sztormowaniem",
+        "ru": "штормовкой",
+        "correct": false
+      },
+      "B": {
+        "pl": "plażowaniem",
+        "ru": "пляжование",
+        "correct": false
+      },
+      "C": {
+        "pl": "sztrandowaniem",
+        "ru": "швартовкой в (на) берег",
+        "correct": true
+      }
+    },
+    "number": 173
+  },
+  {
+    "pl": "Sztrandowanie wykonujemy:",
+    "ru": "Швартовку на (в) берег мы выполняем:",
+    "options": {
+      "A": {
+        "pl": "praktycznie na każdym brzegu i rodzaju dna",
+        "ru": "практически на каждом берегу и типе дна",
+        "correct": false
+      },
+      "B": {
+        "pl": "z największą ostrożnością, po starannym wybraniu miejsca sztrandowania",
+        "ru": "с наибольшей осторожностью, после тщательного выбора места швартовки на (в) берег",
+        "correct": true
+      },
+      "C": {
+        "pl": "na skalistych wysepkach",
+        "ru": "на скалистых островках",
+        "correct": false
+      }
+    },
+    "number": 174
+  },
+  {
+    "pl": "Sztrandowanie  wykonujemy:",
+    "ru": "Швартовку на (в) берег выполняем:",
+    "options": {
+      "A": {
+        "pl": "jedynie w sytuacji awaryjnej, gdyż zawsze wiąże się z ryzykiem uszkodzenia kadłuba",
+        "ru": "только в аварийной ситуации, так как всегда сопряжено с риском повреждения корпуса",
+        "correct": true
+      },
+      "B": {
+        "pl": "często, gdyż jest to wygodny manewr cumowania",
+        "ru": "часто, так как это удобный маневр швартовки",
+        "correct": false
+      },
+      "C": {
+        "pl": "przy dużej prędkości jachtu",
+        "ru": "на высокой скорости яхты",
+        "correct": false
+      }
+    },
+    "number": 175
+  },
+  {
+    "pl": "Przy wietrze powyżej 8°B zaleca się sztormowanie (jeśli akwen na to pozwala):",
+    "ru": "При ветре выше 8 ° b рекомендуется глиссировать (если водоем позволяет):",
+    "options": {
+      "A": {
+        "pl": "pod wiatr i falę",
+        "ru": "против ветра и волны",
+        "correct": false
+      },
+      "B": {
+        "pl": "wyłącznie w dryfie",
+        "ru": "исключительно в дрейфе",
+        "correct": false
+      },
+      "C": {
+        "pl": "z wiatrem",
+        "ru": "с ветром",
+        "correct": true
+      }
+    },
+    "number": 176
+  }
+]

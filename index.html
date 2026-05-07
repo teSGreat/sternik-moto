@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#0a4d68" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" type="image/svg+xml" href="icon.svg" />
+  <link rel="apple-touch-icon" href="icon-192.png" />
+  <link rel="stylesheet" href="styles.css" />
+  <title>Sternik Motorowodny — подготовка</title>
+</head>
+<body>
+  <header class="app-bar">
+    <div class="app-bar__inner">
+      <div class="app-bar__title">
+        <span class="logo">⚓</span>
+        <span class="title-text">Sternik Motorowodny</span>
+      </div>
+      <div class="app-bar__actions">
+        <div class="seg" id="lang-switch" role="tablist" aria-label="Язык">
+          <button class="seg__btn active" data-lang="ru" type="button">RU</button>
+          <button class="seg__btn" data-lang="pl" type="button">PL</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Mode picker (home screen) -->
+  <main id="screen-home" class="screen active">
+    <div class="home">
+      <div class="home__intro">
+        <h1>Подготовка к экзамену</h1>
+        <p class="muted">176 вопросов, два режима</p>
+      </div>
+      <button class="mode-card mode-card--study" id="btn-study" type="button">
+        <div class="mode-card__icon">📖</div>
+        <div class="mode-card__title">Режим изучения</div>
+        <div class="mode-card__desc">Все вопросы по порядку, правильный ответ подсвечен сразу</div>
+      </button>
+      <button class="mode-card mode-card--quiz" id="btn-quiz" type="button">
+        <div class="mode-card__icon">🎯</div>
+        <div class="mode-card__title">Режим теста</div>
+        <div class="mode-card__desc">Вопросы вперемешку. Выберите ответ — узнаете, правильно ли</div>
+      </button>
+      <div class="home__stats">
+        <div class="stat">
+          <div class="stat__num" id="stat-total">—</div>
+          <div class="stat__label">всего</div>
+        </div>
+        <div class="stat">
+          <div class="stat__num" id="stat-best">—</div>
+          <div class="stat__label">лучший результат</div>
+        </div>
+        <div class="stat">
+          <div class="stat__num" id="stat-streak">—</div>
+          <div class="stat__label">подряд верно</div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Study mode -->
+  <main id="screen-study" class="screen">
+    <div class="study-bar">
+      <button class="icon-btn" id="study-home" type="button" aria-label="Главная">←</button>
+      <div class="progress">
+        <div class="progress__bar"><div class="progress__fill" id="study-progress-fill"></div></div>
+        <div class="progress__text" id="study-progress-text">1 / 176</div>
+      </div>
+    </div>
+
+    <div class="card-wrap">
+      <article class="qcard" id="study-card">
+        <div class="qnum" id="study-qnum">№ 1</div>
+        <h2 class="qtext" id="study-qtext"></h2>
+        <ul class="opts" id="study-opts"></ul>
+      </article>
+    </div>
+
+    <nav class="nav-bar">
+      <button class="nav-btn nav-btn--ghost" id="study-prev" type="button">← Назад</button>
+      <button class="nav-btn" id="study-next" type="button">Вперёд →</button>
+    </nav>
+  </main>
+
+  <!-- Quiz mode -->
+  <main id="screen-quiz" class="screen">
+    <div class="study-bar">
+      <button class="icon-btn" id="quiz-home" type="button" aria-label="Главная">←</button>
+      <div class="progress">
+        <div class="progress__bar"><div class="progress__fill" id="quiz-progress-fill"></div></div>
+        <div class="progress__text" id="quiz-progress-text">1 / 176</div>
+      </div>
+      <div class="score" id="quiz-score">0 ✓ / 0 ✗</div>
+    </div>
+
+    <div class="card-wrap">
+      <article class="qcard" id="quiz-card">
+        <div class="qnum" id="quiz-qnum">№ —</div>
+        <h2 class="qtext" id="quiz-qtext"></h2>
+        <ul class="opts opts--quiz" id="quiz-opts"></ul>
+      </article>
+    </div>
+
+    <nav class="nav-bar">
+      <button class="nav-btn nav-btn--ghost" id="quiz-skip" type="button">Пропустить</button>
+      <button class="nav-btn" id="quiz-next" type="button" disabled>Следующий →</button>
+    </nav>
+  </main>
+
+  <!-- Quiz finish overlay -->
+  <div id="finish-overlay" class="overlay">
+    <div class="overlay__card">
+      <div class="overlay__emoji" id="finish-emoji">🎉</div>
+      <h2 id="finish-title">Тест завершён</h2>
+      <p class="muted" id="finish-sub"></p>
+      <div class="finish-stats">
+        <div class="finish-stat"><div class="finish-stat__num" id="finish-correct">0</div><div>верно</div></div>
+        <div class="finish-stat finish-stat--bad"><div class="finish-stat__num" id="finish-wrong">0</div><div>неверно</div></div>
+        <div class="finish-stat"><div class="finish-stat__num" id="finish-pct">0%</div><div>результат</div></div>
+      </div>
+      <div class="overlay__actions">
+        <button class="nav-btn nav-btn--ghost" id="finish-home" type="button">На главную</button>
+        <button class="nav-btn" id="finish-again" type="button">Ещё раз</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
