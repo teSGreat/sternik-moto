@@ -1144,6 +1144,50 @@
     "number": 52
   },
   {
+    "pl": "Widoczna nocą jednostka pokazuje światła jak na rysunku. Określ rodzaj statku i stronę.",
+    "ru": "Видимый ночью комплект сигнальных огней показывает, как показано на рисунке. Определите тип судна и сторону.",
+    "options": {
+      "A": {
+        "pl": "Zestaw holowniczy widoczny od dziobu",
+        "ru": "буксировочный комплект, видимый с носовой части",
+        "correct": false
+      },
+      "B": {
+        "pl": "Jacht żaglowy widoczny od dziobu",
+        "ru": "парусная яхта видна с носа",
+        "correct": true
+      },
+      "C": {
+        "pl": "Statek mechaniczny widoczny od dziobu",
+        "ru": "механический корабль, видимый с носовой части",
+        "correct": false
+      }
+    },
+    "number": 53
+  },
+  {
+    "pl": "Widoczna nocą jednostka pokazuje światła jak na rysunku. Określ rodzaj statku i stronę",
+    "ru": "Видимый ночью комплект сигнальных огней показывает, как показано на рисунке. Определите тип судна и сторону",
+    "options": {
+      "A": {
+        "pl": "Statek mechaniczny widoczny od prawej burty",
+        "ru": "механическое судно, видимое с правого борта",
+        "correct": true
+      },
+      "B": {
+        "pl": "Zestaw holowniczy widoczny od prawej burty",
+        "ru": "буксирный комплект, видимый с правого борта",
+        "correct": false
+      },
+      "C": {
+        "pl": "Statek mechaniczny widoczny od lewej burty",
+        "ru": "механическое судно, видимое с левого борта",
+        "correct": false
+      }
+    },
+    "number": 54
+  },
+  {
     "pl": "Czarna kula wywieszona na dziobie statku oznacza:",
     "ru": "Черный шар, установленный на носу корабля, означает:",
     "options": {
@@ -1163,7 +1207,7 @@
         "correct": true
       }
     },
-    "number": 53
+    "number": 55
   },
   {
     "pl": "Oznakowanie dzienne promu to:",
@@ -1185,7 +1229,7 @@
         "correct": false
       }
     },
-    "number": 54
+    "number": 56
   },
   {
     "pl": "Na burtach unieruchomionego statku wywieszono czerwono-białą i czerwoną flagę. Z której strony miniesz tę jednostkę?",
@@ -1207,7 +1251,7 @@
         "correct": true
       }
     },
-    "number": 55
+    "number": 57
   },
   {
     "pl": "Patent sternika motorowodnego (osoby pełnoletniej) upoważnia do:",
@@ -1229,7 +1273,7 @@
         "correct": false
       }
     },
-    "number": 56
+    "number": 58
   },
   {
     "pl": "Pierwszą czynnością po wywrotce jachtu jest:",
@@ -1251,7 +1295,7 @@
         "correct": false
       }
     },
-    "number": 57
+    "number": 59
   },
   {
     "pl": "W jaki sposób może ograniczyć utratę ciepła rozbitek przebywający w wodzie?",
@@ -1273,7 +1317,7 @@
         "correct": false
       }
     },
-    "number": 58
+    "number": 60
   },
   {
     "pl": "Ogrzewanie człowieka, który uległ przechłodzeniu po wyjściu z wody należy przeprowadzać:",
@@ -1295,7 +1339,7 @@
         "correct": false
       }
     },
-    "number": 59
+    "number": 61
   },
   {
     "pl": "Człowiek, któremu rzucono koło ratunkowe:",
@@ -1317,7 +1361,7 @@
         "correct": false
       }
     },
-    "number": 60
+    "number": 62
   },
   {
     "pl": "Podczas alarmu opuszczenia jednostki pas ratunkowy należy zakładać:",
@@ -1339,7 +1383,7 @@
         "correct": false
       }
     },
-    "number": 61
+    "number": 63
   },
   {
     "pl": "Co to jest hipotermia?",
@@ -1361,7 +1405,7 @@
         "correct": false
       }
     },
-    "number": 62
+    "number": 64
   },
   {
     "pl": "Złamanie przedramienia unieruchamiamy:",
@@ -1383,7 +1427,7 @@
         "correct": true
       }
     },
-    "number": 63
+    "number": 65
   },
   {
     "pl": "Łączność alarmową na radiu VHF prowadzimy na kanale:",
@@ -1405,7 +1449,7 @@
         "correct": false
       }
     },
-    "number": 64
+    "number": 66
   },
   {
     "pl": "Ile kamizelek ratunkowych powinno znajdować się na pokładzie jachtu wypływającego w rejs?",
@@ -1427,7 +1471,7 @@
         "correct": false
       }
     },
-    "number": 65
+    "number": 67
   },
   {
     "pl": "Do gaszenia palącej się benzyny należy użyć:",
@@ -1449,7 +1493,7 @@
         "correct": false
       }
     },
-    "number": 66
+    "number": 68
   },
   {
     "pl": "Co należy robić w przypadku pożaru silnika stacjonarnego?",
@@ -1471,7 +1515,7 @@
         "correct": false
       }
     },
-    "number": 67
+    "number": 69
   },
   {
     "pl": "Przed rozpoczęciem rejsu należy:",
@@ -1493,7 +1537,7 @@
         "correct": false
       }
     },
-    "number": 68
+    "number": 70
   },
   {
     "pl": "Podnoszenie i opuszczanie w górę i w dół wyprostowanych ramion na pokładzie jachtu oznacza:",
@@ -1515,7 +1559,7 @@
         "correct": false
       }
     },
-    "number": 69
+    "number": 71
   },
   {
     "pl": "Jakie oddziaływanie ma prawoskrętna śruba przy początkowej fazie płynięcia do przodu?",
@@ -1537,7 +1581,7 @@
         "correct": false
       }
     },
-    "number": 70
+    "number": 72
   },
   {
     "pl": "Mając możliwość wyboru miejsca i sposobu cumowania, który wariant manewru jest bezpieczniejszy?",
@@ -1559,7 +1603,7 @@
         "correct": false
       }
     },
-    "number": 71
+    "number": 73
   },
   {
     "pl": "Jako holowany, gdzie umocujesz linę holowniczą na swojej łodzi?",
@@ -1581,7 +1625,7 @@
         "correct": false
       }
     },
-    "number": 72
+    "number": 74
   },
   {
     "pl": "Po wpłynięciu do śluzy należy:",
@@ -1603,7 +1647,7 @@
         "correct": false
       }
     },
-    "number": 73
+    "number": 75
   },
   {
     "pl": "Rufowa część jachtu, do której mocowany jest silnik to:",
@@ -1625,7 +1669,7 @@
         "correct": false
       }
     },
-    "number": 74
+    "number": 76
   },
   {
     "pl": "Lina cumująca jacht, biegnąca z dziobu jachtu, na nabrzeże w kierunku rufy to:",
@@ -1647,7 +1691,7 @@
         "correct": false
       }
     },
-    "number": 75
+    "number": 77
   },
   {
     "pl": "Lina cumująca jacht, biegnąca z dziobu prostopadle do nabrzeża to:",
@@ -1669,7 +1713,7 @@
         "correct": true
       }
     },
-    "number": 76
+    "number": 78
   },
   {
     "pl": "Lina cumująca jacht, biegnąca z dziobu jachtu, na nabrzeże na poler znajdujący się przed dziobem jachtu to:",
@@ -1691,7 +1735,7 @@
         "correct": false
       }
     },
-    "number": 77
+    "number": 79
   },
   {
     "pl": "Liny służące do cumowania to:",
@@ -1713,7 +1757,7 @@
         "correct": false
       }
     },
-    "number": 78
+    "number": 80
   },
   {
     "pl": "Do mocowania cum na nabrzeżu służy:",
@@ -1735,7 +1779,7 @@
         "correct": true
       }
     },
-    "number": 79
+    "number": 81
   },
   {
     "pl": "Do mocowania cum i innych lin na pokładzie służy:",
@@ -1757,7 +1801,7 @@
         "correct": false
       }
     },
-    "number": 80
+    "number": 82
   },
   {
     "pl": "Denniki to elementy:",
@@ -1779,7 +1823,7 @@
         "correct": true
       }
     },
-    "number": 81
+    "number": 83
   },
   {
     "pl": "Pokładniki to elementy:  может настил?",
@@ -1801,7 +1845,7 @@
         "correct": false
       }
     },
-    "number": 82
+    "number": 84
   },
   {
     "pl": "Greting to:",
@@ -1823,7 +1867,7 @@
         "correct": false
       }
     },
-    "number": 83
+    "number": 85
   },
   {
     "pl": "Achterpik to:",
@@ -1845,10 +1889,10 @@
         "correct": true
       }
     },
-    "number": 84
+    "number": 86
   },
   {
-    "pl": "",
+    "pl": "Pawęż to:",
     "ru": "Транец это:",
     "options": {
       "A": {
@@ -1867,7 +1911,7 @@
         "correct": true
       }
     },
-    "number": 85
+    "number": 87
   },
   {
     "pl": "Forpik to:",
@@ -1889,7 +1933,7 @@
         "correct": false
       }
     },
-    "number": 86
+    "number": 88
   },
   {
     "pl": "Wzmocnienia chroniące kadłub jachtu z zewnątrz to:",
@@ -1911,7 +1955,7 @@
         "correct": false
       }
     },
-    "number": 87
+    "number": 89
   },
   {
     "pl": "Kotwica przedstawiona obok to:",
@@ -1933,7 +1977,29 @@
         "correct": false
       }
     },
-    "number": 88
+    "number": 90
+  },
+  {
+    "pl": "Kotwica przedstawiona obok to:",
+    "ru": "Якорь, изображенный на рисунке:",
+    "options": {
+      "A": {
+        "pl": "kotwica admiralicji",
+        "ru": "якорь Адмиралтейства",
+        "correct": false
+      },
+      "B": {
+        "pl": "kotwica Danfortha (patentowa)",
+        "ru": "якорь Данфорта (патент)",
+        "correct": false
+      },
+      "C": {
+        "pl": "kotwica pługowa (CQR)",
+        "ru": "якорь-плуг (CQR) 92",
+        "correct": true
+      }
+    },
+    "number": 91
   },
   {
     "pl": "Celem utrzymania sprawności działania instalacji zęzowej jachtu należy:",
@@ -1955,7 +2021,7 @@
         "correct": false
       }
     },
-    "number": 89
+    "number": 92
   },
   {
     "pl": "Element przedstawiony obok to:",
@@ -1977,7 +2043,7 @@
         "correct": false
       }
     },
-    "number": 90
+    "number": 93
   },
   {
     "pl": "Jacht składający się z dwóch kadłubów to:",
@@ -1999,7 +2065,7 @@
         "correct": false
       }
     },
-    "number": 91
+    "number": 94
   },
   {
     "pl": "Używanie elektrycznej windy kotwicznej powinno być realizowane wyłącznie",
@@ -2021,7 +2087,7 @@
         "correct": true
       }
     },
-    "number": 92
+    "number": 95
   },
   {
     "pl": "Podstawowa instalacja elektryczna na większości jachtów charakteryzuje się napięciem:",
@@ -2043,7 +2109,7 @@
         "correct": false
       }
     },
-    "number": 93
+    "number": 96
   },
   {
     "pl": "Stosowany w jachtowych instalacjach gazowych gaz jest",
@@ -2065,7 +2131,7 @@
         "correct": true
       }
     },
-    "number": 94
+    "number": 97
   },
   {
     "pl": "Uruchamiając kuchenkę gazowa, najpierw należy",
@@ -2087,7 +2153,7 @@
         "correct": false
       }
     },
-    "number": 95
+    "number": 98
   },
   {
     "pl": "wyłączając kuchenkę",
@@ -2109,7 +2175,7 @@
         "correct": false
       }
     },
-    "number": 96
+    "number": 99
   },
   {
     "pl": "kuchenki jachtowe wykorzystają z reguły",
@@ -2131,7 +2197,7 @@
         "correct": false
       }
     },
-    "number": 97
+    "number": 100
   },
   {
     "pl": "Kolorem czerwonym oznaczone są",
@@ -2153,7 +2219,7 @@
         "correct": false
       }
     },
-    "number": 98
+    "number": 101
   },
   {
     "pl": "Przed uruchomieniem silnika zaburtowego:",
@@ -2175,7 +2241,7 @@
         "correct": true
       }
     },
-    "number": 99
+    "number": 102
   },
   {
     "pl": "Podczas pracy typowego silnika zaburtowego:",
@@ -2197,7 +2263,7 @@
         "correct": false
       }
     },
-    "number": 100
+    "number": 103
   },
   {
     "pl": "Pompa wody zaburtowej używana w układzie chłodzenia silników jachtowych to:",
@@ -2219,7 +2285,7 @@
         "correct": false
       }
     },
-    "number": 101
+    "number": 104
   },
   {
     "pl": "Silnik zaburtowy należy uruchamiać wyłącznie, gdy spodzina jest całkowicie w wodzie, gdyż:",
@@ -2241,7 +2307,7 @@
         "correct": false
       }
     },
-    "number": 102
+    "number": 105
   },
   {
     "pl": "Podczas uruchamiania silnika zaburtowego z manetką w rumplu, manetka gazu powinna być w pozycji:",
@@ -2263,7 +2329,7 @@
         "correct": true
       }
     },
-    "number": 103
+    "number": 106
   },
   {
     "pl": "Przed uruchomieniem silnika stacjonarnego należy:",
@@ -2285,7 +2351,7 @@
         "correct": false
       }
     },
-    "number": 104
+    "number": 107
   },
   {
     "pl": "Śruba napędowa z przekładnią typu „Z-drive\":",
@@ -2307,7 +2373,7 @@
         "correct": false
       }
     },
-    "number": 105
+    "number": 108
   },
   {
     "pl": "Śruba napędowa z przekładnią typu „S-drive\"/„Sail-drive\":",
@@ -2329,7 +2395,7 @@
         "correct": false
       }
     },
-    "number": 106
+    "number": 109
   },
   {
     "pl": "Wymiana wirnika pompy wodnej w silniku zaburtowym eksploatowanym na :",
@@ -2351,7 +2417,7 @@
         "correct": false
       }
     },
-    "number": 107
+    "number": 110
   },
   {
     "pl": "W silnikach przyczepnych (zaburtowych) stosuje się z reguły przekładnię:",
@@ -2373,7 +2439,7 @@
         "correct": false
       }
     },
-    "number": 108
+    "number": 111
   },
   {
     "pl": "Napęd strugowodny jest charakterystyczny dla:",
@@ -2395,7 +2461,7 @@
         "correct": false
       }
     },
-    "number": 109
+    "number": 112
   },
   {
     "pl": "Co to jest duoprop?",
@@ -2417,7 +2483,7 @@
         "correct": false
       }
     },
-    "number": 110
+    "number": 113
   },
   {
     "pl": "Ster strumieniowy na jachcie to:",
@@ -2439,7 +2505,7 @@
         "correct": false
       }
     },
-    "number": 111
+    "number": 114
   },
   {
     "pl": "Główne parametry charakteryzujące śrubę napędową jednostki pływającej to:",
@@ -2461,7 +2527,7 @@
         "correct": false
       }
     },
-    "number": 112
+    "number": 115
   },
   {
     "pl": "Przy śrubie lewoskrętnej pracującej wstecz rufa jest:",
@@ -2483,7 +2549,7 @@
         "correct": false
       }
     },
-    "number": 113
+    "number": 116
   },
   {
     "pl": "Przy śrubie prawoskrętnej pracującej wstecz rufa jest:",
@@ -2505,7 +2571,7 @@
         "correct": false
       }
     },
-    "number": 114
+    "number": 117
   },
   {
     "pl": "Ile koni mechanicznych ma 1 kW:",
@@ -2527,7 +2593,7 @@
         "correct": true
       }
     },
-    "number": 115
+    "number": 118
   },
   {
     "pl": "Czy silnik dwusuwowy jest wyposażony w miskę olejową:",
@@ -2549,7 +2615,7 @@
         "correct": false
       }
     },
-    "number": 116
+    "number": 119
   },
   {
     "pl": "Jak często należy sprawdzać, czy prawidłowo działa chłodzenie silnika?",
@@ -2571,7 +2637,7 @@
         "correct": true
       }
     },
-    "number": 117
+    "number": 120
   },
   {
     "pl": "Tzw. zrywkę na silniku zaburtowym należy:",
@@ -2593,7 +2659,7 @@
         "correct": true
       }
     },
-    "number": 118
+    "number": 121
   },
   {
     "pl": "Przed wyłączeniem (odstawieniem) silnika należy:",
@@ -2615,7 +2681,7 @@
         "correct": true
       }
     },
-    "number": 119
+    "number": 122
   },
   {
     "pl": "Uzupełnianie paliwa podczas pracy silnika:",
@@ -2637,7 +2703,7 @@
         "correct": false
       }
     },
-    "number": 120
+    "number": 123
   },
   {
     "pl": "Wymiana wirnika pompy wodnej w silniku stacjonarnym:",
@@ -2659,7 +2725,7 @@
         "correct": false
       }
     },
-    "number": 121
+    "number": 124
   },
   {
     "pl": "Przełączanie biegu od razu z naprzód\" na „wstecz\" jest:",
@@ -2681,7 +2747,7 @@
         "correct": false
       }
     },
-    "number": 122
+    "number": 125
   },
   {
     "pl": "Paliwo dla silnika zaburtowego to:",
@@ -2703,7 +2769,7 @@
         "correct": true
       }
     },
-    "number": 123
+    "number": 126
   },
   {
     "pl": "Do sterowania obrotami silnika służy:",
@@ -2725,7 +2791,7 @@
         "correct": false
       }
     },
-    "number": 124
+    "number": 127
   },
   {
     "pl": "Czy ratowanie życia ludzkiego na morzu jest płatne?",
@@ -2747,7 +2813,7 @@
         "correct": false
       }
     },
-    "number": 125
+    "number": 128
   },
   {
     "pl": "Ratownictwem morskim załóg jednostek pływających zajmuje się:",
@@ -2769,7 +2835,7 @@
         "correct": false
       }
     },
-    "number": 126
+    "number": 129
   },
   {
     "pl": "Po zauważeniu czerwonej rakiety spadochronowej należy:",
@@ -2791,7 +2857,7 @@
         "correct": false
       }
     },
-    "number": 127
+    "number": 130
   },
   {
     "pl": "Rakiety wyrzucające czerwone gwiazdki, wystrzeliwane w krótkich odstępach czasu oznaczają:",
@@ -2813,7 +2879,7 @@
         "correct": false
       }
     },
-    "number": 128
+    "number": 131
   },
   {
     "pl": "Na jachcie morskim należy stosować:",
@@ -2835,7 +2901,29 @@
         "correct": true
       }
     },
-    "number": 129
+    "number": 132
+  },
+  {
+    "pl": "Człowiek stojący na jachcie i zataczający kręgi dowolnym przedmiotem lub podnoszący powoli do góry i opuszczający wyprostowane ręce to:",
+    "ru": "Человек, стоящий на яхте и сигнализирующий круговыми движениями любыми предметами, медленно поднимающийся вверх и опускающий руки вниз:",
+    "options": {
+      "A": {
+        "pl": "",
+        "ru": "osoba, która się dobrze bawi",
+        "correct": false
+      },
+      "B": {
+        "pl": "",
+        "ru": "osoba, która wzywa pomocy",
+        "correct": true
+      },
+      "C": {
+        "pl": "",
+        "ru": "osoba przekazująca informację: „nie zbliżajcie się do nas\"",
+        "correct": false
+      }
+    },
+    "number": 133
   },
   {
     "pl": "Człowiek stojący na jachcie i zataczający kręgi dowolnym przedmiotem lub podnoszący powoli do góry i opuszczający wyprostowane ręce to:",
@@ -2857,7 +2945,7 @@
         "correct": false
       }
     },
-    "number": 130
+    "number": 134
   },
   {
     "pl": "Aby wezwać pomoc, należy:",
@@ -2879,7 +2967,7 @@
         "correct": false
       }
     },
-    "number": 131
+    "number": 135
   },
   {
     "pl": "Uruchamianie pirotechnicznych środków sygnalizacyjnych powinno być przeprowadzane:",
@@ -2901,7 +2989,7 @@
         "correct": false
       }
     },
-    "number": 132
+    "number": 136
   },
   {
     "pl": "Na jachcie śródlądowym do 12 m długości z 6-osobową załogą:",
@@ -2923,7 +3011,7 @@
         "correct": false
       }
     },
-    "number": 133
+    "number": 137
   },
   {
     "pl": "Obowiązkowe wyposażenie każdego jachtu o długości ponad 3,5 m napędzanego silnikiem spalinowym to:",
@@ -2945,7 +3033,7 @@
         "correct": false
       }
     },
-    "number": 134
+    "number": 138
   },
   {
     "pl": "Na jeden cykl przy resuscytacji krążeniowo-oddechowej składa się:",
@@ -2967,7 +3055,7 @@
         "correct": false
       }
     },
-    "number": 135
+    "number": 139
   },
   {
     "pl": "Wyporność typowej kamizelki ratunkowej dla osoby dorosłej wynosi?",
@@ -2989,7 +3077,7 @@
         "correct": false
       }
     },
-    "number": 136
+    "number": 140
   },
   {
     "pl": "Pierwszą czynnością, którą robi kapitan po wywrotce jachtu, jest:",
@@ -3011,7 +3099,7 @@
         "correct": false
       }
     },
-    "number": 137
+    "number": 141
   },
   {
     "pl": "W przypadku stwierdzenia przybywania wody w kadłubie jachtu morskiego                                                                                   należy:",
@@ -3033,7 +3121,7 @@
         "correct": false
       }
     },
-    "number": 138
+    "number": 142
   },
   {
     "pl": "Po podjęciu człowieka z wody:",
@@ -3055,7 +3143,7 @@
         "correct": false
       }
     },
-    "number": 139
+    "number": 143
   },
   {
     "pl": "Podczas holowania jachtu przez inną jednostkę, o prędkości zestawu decyduje:",
@@ -3077,7 +3165,7 @@
         "correct": false
       }
     },
-    "number": 140
+    "number": 144
   },
   {
     "pl": "Mając do czynienia z osobą nieprzytomną należy:",
@@ -3099,7 +3187,7 @@
         "correct": false
       }
     },
-    "number": 141
+    "number": 145
   },
   {
     "pl": "Udrażnianie dróg oddechowych polega na:",
@@ -3121,7 +3209,7 @@
         "correct": false
       }
     },
-    "number": 142
+    "number": 146
   },
   {
     "pl": "W przypadku zauważenia omdlenia należy:",
@@ -3143,7 +3231,7 @@
         "correct": false
       }
     },
-    "number": 143
+    "number": 147
   },
   {
     "pl": "Defibrylator służy do:",
@@ -3165,7 +3253,7 @@
         "correct": true
       }
     },
-    "number": 144
+    "number": 148
   },
   {
     "pl": "Użycie automatycznego defibrylatora jest:",
@@ -3187,7 +3275,7 @@
         "correct": false
       }
     },
-    "number": 145
+    "number": 149
   },
   {
     "pl": "W przypadku poparzenia skóry należy:",
@@ -3209,7 +3297,7 @@
         "correct": false
       }
     },
-    "number": 146
+    "number": 150
   },
   {
     "pl": "Przy zranieniach z obfitym upływem krwi należy:",
@@ -3231,7 +3319,7 @@
         "correct": false
       }
     },
-    "number": 147
+    "number": 151
   },
   {
     "pl": "Krwawienie tętnicze charakteryzuje się:",
@@ -3253,7 +3341,7 @@
         "correct": false
       }
     },
-    "number": 148
+    "number": 152
   },
   {
     "pl": "Krwawienie żylne charakteryzuje się:",
@@ -3275,7 +3363,7 @@
         "correct": false
       }
     },
-    "number": 149
+    "number": 153
   },
   {
     "pl": "Krwotok wewnętrzny charakteryzuje się:",
@@ -3297,7 +3385,7 @@
         "correct": true
       }
     },
-    "number": 150
+    "number": 154
   },
   {
     "pl": "Przy poparzeniu kwasem akumulatorowym należy:",
@@ -3319,7 +3407,7 @@
         "correct": false
       }
     },
-    "number": 151
+    "number": 155
   },
   {
     "pl": "Apteczka jachtowa  powinna  zawierać:",
@@ -3341,7 +3429,7 @@
         "correct": false
       }
     },
-    "number": 152
+    "number": 156
   },
   {
     "pl": "W przypadku odcięcia lub urwania palca należy:",
@@ -3363,7 +3451,7 @@
         "correct": false
       }
     },
-    "number": 153
+    "number": 157
   },
   {
     "pl": "W przypadku urazu kończyny z prawdopodobnym złamaniem należy:",
@@ -3385,7 +3473,7 @@
         "correct": false
       }
     },
-    "number": 154
+    "number": 158
   },
   {
     "pl": "Czas od wpadnięcia do wody do momentu wystąpienia hipotermii jest zależny:",
@@ -3407,7 +3495,7 @@
         "correct": false
       }
     },
-    "number": 155
+    "number": 159
   },
   {
     "pl": "Po podjęciu na pokład osoby z objawami hipotermii należy niezwłocznie",
@@ -3429,7 +3517,7 @@
         "correct": false
       }
     },
-    "number": 156
+    "number": 160
   },
   {
     "pl": "Hipotermia jest to zjawisko:",
@@ -3451,7 +3539,7 @@
         "correct": false
       }
     },
-    "number": 157
+    "number": 161
   },
   {
     "pl": "Średni czas przeżycia człowieka w wodzie o temperaturze 10°C wynosi:",
@@ -3473,7 +3561,7 @@
         "correct": false
       }
     },
-    "number": 158
+    "number": 162
   },
   {
     "pl": "Pozycja, HELP  to:",
@@ -3495,7 +3583,7 @@
         "correct": false
       }
     },
-    "number": 159
+    "number": 163
   },
   {
     "pl": "Jakie zachowanie grupy rozbitków gwarantuje najdłuższe przeżycie w wodzie?",
@@ -3517,7 +3605,7 @@
         "correct": true
       }
     },
-    "number": 160
+    "number": 164
   },
   {
     "pl": "Co to są sztormliny?",
@@ -3539,7 +3627,7 @@
         "correct": true
       }
     },
-    "number": 161
+    "number": 165
   },
   {
     "pl": "Co należy zrobić zaraz po wypadnięciu człowieka za burtę?",
@@ -3561,7 +3649,7 @@
         "correct": false
       }
     },
-    "number": 162
+    "number": 166
   },
   {
     "pl": "Statki ratownicze SAR mają za zadanie:",
@@ -3583,7 +3671,7 @@
         "correct": false
       }
     },
-    "number": 163
+    "number": 167
   },
   {
     "pl": "Na rejsie morskim ćwiczebny alarm człowiek za burtą\" powinien być przeprowadzony:",
@@ -3605,7 +3693,7 @@
         "correct": false
       }
     },
-    "number": 164
+    "number": 168
   },
   {
     "pl": "Manewry portowe należy wykonywać:",
@@ -3627,7 +3715,7 @@
         "correct": false
       }
     },
-    "number": 165
+    "number": 169
   },
   {
     "pl": "Morska łączność radiowa rozpoczynająca się od „MAYDAY, MAYDAY, MAYDAY\" to:",
@@ -3649,7 +3737,7 @@
         "correct": false
       }
     },
-    "number": 166
+    "number": 170
   },
   {
     "pl": "Na morzu łączność radiowa rozpoczynająca się od SECURITE, SECURITE, SECURITE\" to:",
@@ -3671,7 +3759,7 @@
         "correct": false
       }
     },
-    "number": 167
+    "number": 171
   },
   {
     "pl": "Na morzu łączność radiowa rozpoczynająca się od „PAN-PAN, PAN-PAN, PAN-  PAN\" to:",
@@ -3693,7 +3781,7 @@
         "correct": false
       }
     },
-    "number": 168
+    "number": 172
   },
   {
     "pl": "Gaśnicą pianową nie wolno gasić:",
@@ -3715,7 +3803,7 @@
         "correct": false
       }
     },
-    "number": 169
+    "number": 173
   },
   {
     "pl": "Gaśnica proszkowa służy do gaszenia:",
@@ -3737,7 +3825,7 @@
         "correct": false
       }
     },
-    "number": 170
+    "number": 174
   },
   {
     "pl": "Prawidłowy sposób użycia gaśnicy proszkowej to:",
@@ -3759,7 +3847,7 @@
         "correct": true
       }
     },
-    "number": 171
+    "number": 175
   },
   {
     "pl": "Po zauważeniu požaru na statku w ruchu należy:",
@@ -3781,7 +3869,7 @@
         "correct": false
       }
     },
-    "number": 172
+    "number": 176
   },
   {
     "pl": "Doprowadzenie do celowego i kontrolowanego osadzenia jednostki na piaszczystym brzegu, płytkiej wodzie lub na mieliźnie nazywamy:",
@@ -3803,7 +3891,7 @@
         "correct": true
       }
     },
-    "number": 173
+    "number": 177
   },
   {
     "pl": "Sztrandowanie wykonujemy:",
@@ -3825,7 +3913,7 @@
         "correct": false
       }
     },
-    "number": 174
+    "number": 178
   },
   {
     "pl": "Sztrandowanie  wykonujemy:",
@@ -3847,7 +3935,7 @@
         "correct": false
       }
     },
-    "number": 175
+    "number": 179
   },
   {
     "pl": "Przy wietrze powyżej 8°B zaleca się sztormowanie (jeśli akwen na to pozwala):",
@@ -3869,6 +3957,6 @@
         "correct": true
       }
     },
-    "number": 176
+    "number": 180
   }
 ]

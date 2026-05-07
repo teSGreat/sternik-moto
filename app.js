@@ -40,6 +40,7 @@
 
     // Stats
     $('stat-total').textContent = state.questions.length;
+    $('intro-count').textContent = state.questions.length;
     $('stat-best').textContent = state.bestScore ? Math.round(state.bestScore) + '%' : '—';
     $('stat-streak').textContent = state.streak || '—';
 
@@ -258,16 +259,9 @@
 
     // Light haptic on supported devices
     if (navigator.vibrate) navigator.vibrate(isCorrect ? 30 : [20, 60, 20]);
-
-    // Auto-advance after a delay (gives user time to see correct answer)
-    state._autoAdvanceTimer && clearTimeout(state._autoAdvanceTimer);
-    state._autoAdvanceTimer = setTimeout(() => {
-      if (state.mode === 'quiz' && state.quizAnswered) quizAdvance(false);
-    }, isCorrect ? 900 : 2000);
   }
 
   function quizAdvance(skip) {
-    if (state._autoAdvanceTimer) clearTimeout(state._autoAdvanceTimer);
     if (skip && !state.quizAnswered) {
       state.streak = 0;
       localStorage.setItem('sm_streak', String(state.streak));

@@ -1,7 +1,7 @@
 {
   "name": "Sternik Motorowodny",
   "short_name": "Sternik",
-  "description": "Подготовка к экзамену Sternik Motorowodny — 176 вопросов с двумя режимами обучения",
+  "description": "Подготовка к экзамену Sternik Motorowodny — 180 вопросов с двумя режимами обучения",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
